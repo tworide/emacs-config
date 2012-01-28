@@ -1,0 +1,43 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/toij/code/master-thesis/code/" . "visual-hull/")
+ ("/home/toij/code/" . "master-thesis/")
+ ("/home/toij/" . "code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/toij/code/master-thesis/code/visual-hull/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.cpp"
+ "Makefile"
+ "FjeldstadSilhouettes.cpp"
+ "MatusikSilhouettes.cpp"
+ "RayPoint.cpp"
+ "RayInterval.cpp"
+ "SimpleVisualHull.cpp"
+ "FjeldstadSilhouettes.h"
+ "RayInterval.h"
+ "ImageUtils.h"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/toij/code/master-thesis/code/visual-hull/" (20153 5009) "../" "Makefile" "main" "Ray2D.h" "SimpleVisualHull.cpp" "Ray2D.cpp" "FjeldstadSilhouettes.h" "RayInterval.o" "FjeldstadSilhouettes.cpp" "VisualHull.o" "VisualHull.cpp" "Interval.cpp" "test.cpp" "RayPoint.o" "MatusikSilhouettes.cpp" "main.o" "fmatrix.xml" "camera03.png" "MatusikSilhouettes.hpp" "camera06.png" "Silhouette.cpp" "RayPoint.h" "ImageUtils.o" "Interval.h" "main.cpp" "./" "VisualHull.h" "MatusikSilhouettes.o" "SimpleVisualHull.o" "CameraParameters.cpp" "CameraParameters.hpp" "SimpleVisualHull.h" "ImageUtils.h" "Silhouette.h" "visualHull" "TAGS" "ImageUtils.cpp" "RayInterval.cpp" "RayPoint.cpp" "FjeldstadSilhouettes.o" "silhouettes/" "RayInterval.h")
+
+ ("/home/toij/code/master-thesis/code/" (20112 41929) "../" "background-subtraction/" "visual-hull/" "examples_testing/" "./" "ibvh.zip")
+
+ ("/home/toij/code/master-thesis/" (20111 17445) "master-guidelines.pdf" "../" "presentation/" "notes/" "code/" "mindmaps/" "books/" "./" "articles/" "Msreport-template.tgz" "msreport-template/" ".git/" "other-thesis/" ".gitignore")
+
+ ("/home/toij/code/" (20114 63891) "../" "raw-converter/" "capture-kristian-gaar.avi" "Untitled Folder 2/" "Untitled Folder/" "net-2.6/" "fjelstad-visual-hull/" "3241_Code/" "3241_Code_0.zip" "examples_testing/" "./" "ibvh/" "master-thesis/" "ibvh.zip")
+
+ ("/home/toij/" (20143 63275) ".local/" "workspace/" "../" ".swt/" "Desktop/" "aur-packages/" ".emacs.d/" ".simemacs" ".emacs" ".esd_auth" "#gpu_v-hull#" "emacs-config/" ".gvfs/" ".fontconfig/" ".nvidia-settings-rc" ".wine/" ".bashrc~" ".bash_logout" "code/" ".gconfd/" ".dropbox/" ".gitconfig" "Dropbox/" ".gconf/" ".bash_profile" ".xsession-errors" ".Skype/" ".gnome2/" ".adobe/" ".xsession" ".gimp-2.6/" "./" "Spotify Installer.exe" ".pulse/" ".bashrc" ".cache/" ".pulse-cookie" ".ssh/" ".mozilla/" ".gtk-bookmarks" ".bash_history" ".xinitrc" "gpu_v-hull" ".pki/" ".eclipse/" ".ICEauthority" "emacs-config.tgz" ".mission-control/" "Downloads/" ".Xauthority" "wine-installers/" ".emacs~" ".macromedia/" ".thumbnails/" ".dbus/" ".config/" ".lesshst" ".emacs-toij/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
