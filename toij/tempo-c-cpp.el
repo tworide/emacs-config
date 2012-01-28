@@ -242,14 +242,14 @@
 (tempo-define-template "verdione-header"
 		        '("/* Verdione - Technology for mixed-reality arts performances" > n>
 			  "*" > n>
-			  "*" "File:     " (p "filename: " filename) > n>
-                          "*" "Author:   Tor Ivar Johansen <toij@ifi.uio.no>"> n>
-                          "*" "Contents: " (p "one-line-desc: " desc) > n>
+			  "*" " File:     " (p "filename: " filename) > n>
+                          "*" " Author:   Tor Ivar Johansen <toij@ifi.uio.no>"> n>
+                          "*" " Contents: " (p "one-line-desc: " desc) > n>
 			  "*" > n>
                           "*" > n>
-                          "*" "Verdione software is released under the terms of the GNU Lesser"> n>
-                          "*" "General Public License Version 2 (LGPLv2). See file COPYING.LESSER"> n>
-                          "*" "for details."> n>
+                          "*" " Verdione software is released under the terms of the GNU Lesser"> n>
+                          "*" " General Public License Version 2 (LGPLv2). See file COPYING.LESSER"> n>
+                          "*" " for details."> n>
                           "*/" > n>
 			 )
 		       "verdione"
@@ -269,14 +269,14 @@
 (tempo-define-template "c++-class"
 		        '("/* Verdione - Technology for mixed-reality arts performances" > n>
 			  "*" > n>
-			  "*" "File:     " (p "filename: " filename) > n>
-                          "*" "Author:   Tor Ivar Johansen <toij@ifi.uio.no>"> n>
-                          "*" "Contents: " (p "one-line-desc: " desc) > n>
+			  "*" " File:     " (p "filename: " filename) > n>
+                          "*" " Author:   Tor Ivar Johansen <toij@ifi.uio.no>"> n>
+                          "*" " Contents: " (p "one-line-desc: " desc) > n>
 			  "*" > n>
                           "*" > n>
-                          "*" "Verdione software is released under the terms of the GNU Lesser"> n>
-                          "*" "General Public License Version 2 (LGPLv2). See file COPYING.LESSER"> n>
-                          "*" "for details."> n>
+                          "*" " Verdione software is released under the terms of the GNU Lesser"> n>
+                          "*" " General Public License Version 2 (LGPLv2). See file COPYING.LESSER"> n>
+                          "*" " for details."> n>
                           "*/" > n>
 			  "class " (p "classname: " class) " {" > n> 
 			  > ~ n>	
