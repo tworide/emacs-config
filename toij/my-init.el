@@ -22,3 +22,38 @@
 ;; Enable easy switching beetween .h and .cpp files
 ;; ============================================================
 (global-set-key (kbd "C-x C-o") 'ff-find-other-file)
+
+(setq load-path (cons (expand-file-name "/dir/with/cmake-mode") load-path))
+(require 'cmake-mode)
+(setq auto-mode-alist
+      (append '(("CMakeLists\\.txt\\'" . cmake-mode)
+                ("\\.cmake\\'" . cmake-mode))
+              auto-mode-alist))
+
+
+(setq TeX-auto-save t)
+(setq TeX-parse-self t)
+(setq-default TeX-master "main")
+(setq TeX-PDF-mode t)
+(setq TeX-source-correlate-mode t)
+
+
+(require 'dbus)
+(defun th-evince-sync (file linecol)
+   (let ((buf (get-buffer file))
+         (line (car linecol))
+         (col (cadr linecol)))
+     (if (null buf)
+         (message "Sorry, %s is not opened..." file)
+       (switch-to-buffer buf)
+       (goto-line (car linecol))
+       (unless (= col -1)
+         (move-to-column col)))))
+
+(when (and
+       (eq window-system 'x)
+       (fboundp 'dbus-register-signal))
+  (dbus-register-signal
+   :session nil "/org/gnome/evince/Window/0"
+   "org.gnome.evince.Window" "SyncSource"
+   'th-evince-sync))
