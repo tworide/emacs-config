@@ -30,7 +30,16 @@
                 ("\\.cmake\\'" . cmake-mode))
               auto-mode-alist))
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Activate RefTex and wire it into AucTex ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)   
+(add-hook 'latex-mode-hook 'turn-on-reftex)
+(setq reftex-plug-into-AUCTeX t)
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; AucTeX configurations ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
 (setq-default TeX-master "main")
@@ -40,16 +49,15 @@
 
 (require 'dbus)
 (defun th-evince-sync (file linecol)
-   (let ((buf (get-buffer file))
-         (line (car linecol))
-         (col (cadr linecol)))
-     (if (null buf)
-         (message "Sorry, %s is not opened..." file)
-       (switch-to-buffer buf)
-       (goto-line (car linecol))
-       (unless (= col -1)
-         (move-to-column col)))))
-
+  (let ((buf (get-buffer file))
+        (line (car linecol))
+        (col (cadr linecol)))
+    (if (null buf)
+        (message "Sorry, %s is not opened..." file)
+      (switch-to-buffer buf)
+      (goto-line (car linecol))
+      (unless (= col -1)
+        (move-to-column col)))))
 (when (and
        (eq window-system 'x)
        (fboundp 'dbus-register-signal))
