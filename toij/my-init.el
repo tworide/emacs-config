@@ -13,10 +13,13 @@
 ;; ============================================================
 ;; Enable Color-theme and zenburn
 ;; ============================================================
-(require 'color-theme)
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+(load-theme 'hickey t)
 
-(require 'zenburn)
-(color-theme-zenburn)
+;; (require 'color-theme)
+
+;; (require 'zenburn)
+;; (color-theme-zenburn)
 
 ;; ============================================================
 ;; Enable easy switching beetween .h and .cpp files
@@ -46,6 +49,7 @@
 (setq TeX-PDF-mode t)
 (setq TeX-source-correlate-mode t)
 
+(add-hook 'LaTeX-mode-hook 'flyspell-mode nil)
 
 (require 'dbus)
 (defun th-evince-sync (file linecol)
