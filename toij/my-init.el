@@ -13,8 +13,12 @@
 ;; ============================================================
 ;; Enable Color-theme and zenburn
 ;; ============================================================
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
-(load-theme 'hickey t)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Sublime Text 2 Themes (Supported by >24) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+;; (load-theme 'hickey t)
 
 ;; (require 'color-theme)
 
