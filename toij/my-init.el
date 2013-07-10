@@ -20,10 +20,10 @@
 ;; (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 ;; (load-theme 'hickey t)
 
-;; (require 'color-theme)
+(require 'color-theme)
 
-;; (require 'zenburn)
-;; (color-theme-zenburn)
+(require 'zenburn)
+(color-theme-zenburn)
 
 ;; ============================================================
 ;; Enable easy switching beetween .h and .cpp files
