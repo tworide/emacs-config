@@ -2,41 +2,397 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/toij/code/master-thesis/code/" . "visual-hull/")
- ("/home/toij/code/" . "master-thesis/")
- ("/home/toij/" . "code/")
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/" . "sass/")
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/" . "resources/")
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/" . "devilry_theme/")
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/" . "static/")
+ ("/home/toij/code/devilry-django/src/devilry_theme/" . "devilry_theme/")
+ ("/home/toij/code/devilry-django/devenv/sentry/" . "venv/")
+ ("/home/toij/code/devilry-django/devenv/" . "sentry/")
+ ("/home/toij/code/trafodjango/src/trafo_objectify/" . "trafo_objectify/")
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/" . "activity/")
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/" . "apps/")
+ ("/home/toij/code/trafodjango/src/trafo.apps/" . "trafo/")
+ ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/" . "trafo_ui2/")
+ ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/" . "static/")
+ ("/home/toij/code/trafodjango/src/trafo_ui2/" . "trafo_ui2/")
+ ("/home/toij/code/trafodjango/src/" . "trafo_objectify/")
+ ("/home/toij/code/trafodjango/src/trafo_develop/" . "trafo_develop/")
+ ("/home/toij/code/devilry-django/src/devilry_rest/" . "devilry_rest/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/" . "devilry_nodeadmin/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/" . "devilry_nodeadmin/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/" . "static/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/" . "controller/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/" . "nodebrowser/")
+ ("/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/" . "settings/")
+ ("/home/toij/code/devilry-django/src/devilry_developer/" . "devilry_developer/")
+ ("/home/toij/code/symphonical/symphonical2/harmony/devenv/" . "djangosettings/")
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/static/" . "my_example/")
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/" . "static/")
+ ("/home/toij/code/djangotestproject/src/my_example/" . "my_example/")
+ ("/home/toij/code/djangotestproject/src/" . "my_example/")
+ ("/home/toij/code/djangotestproject/" . "src/")
+ ("/home/toij/code/symphonical/symphonical2/harmony/prodenv/" . "djangosettings/")
+ ("/home/toij/code/symphonical/symphonical2/harmony/" . "devenv/")
+ ("/home/toij/code/devilry-django/src/devilry/devilry/apps/core/" . "models/")
+ ("/home/toij/code/devilry-django/src/devilry/devilry/apps/" . "core/")
+ ("/home/toij/code/devilry-django/src/devilry/devilry/" . "apps/")
+ ("/home/toij/code/devilry-django/src/devilry/" . "devilry/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/tests/" . "rest/")
+ ("/home/toij/code/devilry-django/src/devilry_settings/" . "devilry_settings/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/" . "rest/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/" . "devilry_examiner/")
+ ("/home/toij/code/devilry.github.com/" . "_layouts/")
+ ("/home/toij/code/symphonical/symphonical2/vagrantdev/" . "manifests/")
+ ("/home/toij/code/symphonical/symphonical2/" . "harmony/")
+ ("/home/toij/code/symphonical/" . "symphonical2/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/devilry_qualifiesforexam_points/locale/nb/" . "LC_MESSAGES/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/devilry_qualifiesforexam_points/locale/" . "nb/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/devilry_qualifiesforexam_points/" . "locale/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/" . "devilry_qualifiesforexam_points/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_approved/devilry_qualifiesforexam_approved/locale/nb/" . "LC_MESSAGES/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_approved/devilry_qualifiesforexam_approved/locale/" . "nb/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_approved/devilry_qualifiesforexam_approved/" . "locale/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_approved/" . "devilry_qualifiesforexam_approved/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/locale/nb/" . "LC_MESSAGES/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/locale/" . "nb/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/" . "browsegrouped/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/" . "view/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/static/devilry_qualifiesforexam/app/view/" . "showstatus/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/static/devilry_qualifiesforexam/app/" . "view/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/static/devilry_qualifiesforexam/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/static/" . "devilry_qualifiesforexam/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/" . "locale/")
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/" . "devilry_qualifiesforexam/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/" . "devilry_student/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/locale/nb/" . "LC_MESSAGES/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/locale/" . "nb/")
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/" . "static/")
+ ("/home/toij/code/devilry-django/src/devilry_student/" . "devilry_student/")
+ ("/home/toij/code/master-thesis/code/" . "linjeavstand/")
+ ("/home/toij/code/nrk-radio/" . "nrk-programlist/")
+ ("/home/toij/code/verdione/examples/streaming/" . "liveServer/")
+ ("/home/toij/code/verdione/build/examples/capture/pylonExample/CMakeFiles/" . "pylonExample.dir/")
+ ("/home/toij/code/verdione/build/examples/capture/pylonExample/" . "CMakeFiles/")
+ ("/home/toij/code/verdione/build/examples/capture/" . "pylonExample/")
+ ("/home/toij/code/verdione/build/examples/" . "capture/")
+ ("/home/toij/code/verdione/build/" . "examples/")
+ ("/home/toij/code/verdione/contrib/private-lib/lib/" . "pkgconfig/")
+ ("/home/toij/code/verdione/contrib/private-lib/" . "lib/")
+ ("/home/toij/code/verdione/contrib/" . "private-lib/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/" . "managestudents/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/" . "managestudents/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/" . "view/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/" . "devilry_subjectadmin/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/" . "static/")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/" . "devilry_subjectadmin/")
+ ("/home/toij/code/devilry-django/src/devilry_frontpage/" . "devilry_frontpage/")
+ ("/home/toij/code/devilry-django/src/" . "devilry_qualifiesforexam/")
+ ("/home/toij/code/devilry-django/" . "src/")
+ ("/home/toij/code/master-thesis/msreport-template/" . "code-examples/")
+ ("/home/toij/code/master-thesis/" . "code/")
+ ("/home/toij/code/verdione/private/toij/visual_hull/opencl/" . "toij-opencl/")
+ ("/home/toij/code/verdione/private/toij/visual_hull/" . "opencl/")
+ ("/home/toij/code/verdione/libopenframeworks/addon/" . "ofxOpenCv/")
+ ("/home/toij/code/verdione/libopenframeworks/" . "addon/")
+ ("/home/toij/code/verdione/private/toij/" . "visual_hull/")
+ ("/home/toij/code/verdione/private/" . "toij/")
+ ("/home/toij/code/verdione/examples/openFrameworks/ofxUISliders/data/" . "GUI/")
+ ("/home/toij/code/verdione/examples/openFrameworks/ofxUISliders/" . "data/")
+ ("/home/toij/code/verdione/examples/openFrameworks/" . "dragDropExample/")
+ ("/home/toij/code/verdione/verdione/" . "videomonitor/")
+ ("/home/toij/code/verdione/tests/" . "videoconverterProfiler/")
+ ("/home/toij/code/verdione/examples/capture/" . "pylonExample/")
+ ("/home/toij/code/verdione/examples/" . "openFrameworks/")
+ ("/home/toij/.emacs.d/elpa/" . "dired-single-1.7.0/")
+ ("/home/toij/code/verdione/libnorthlight/" . "calibrate/")
+ ("/home/toij/code/verdione/" . "private/")
+ ("/home/toij/code/" . "devilry-django/")
+ ("/home/toij/master/master-thesis/code/visual-hull/" . "opencl/")
+ ("/" . "home/")
+ ("/home/toij/.emacs.d/" . "toij/")
+ ("/home/" . "toij/")
+ ("/home/toij/NVIDIA_GPU_Computing_SDK/OpenCL/src/" . "oclBandwidthTest/")
+ ("/home/toij/NVIDIA_GPU_Computing_SDK/" . "OpenCL/")
+ ("/home/toij/master/master-thesis/code/" . "visual-hull/")
+ ("/home/toij/master/master-thesis/" . "msreport-template/")
+ ("/home/toij/master/" . "master-thesis/")
+ ("/home/toij/espeak-thesis/" . "espeak/")
+ ("/home/toij/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/toij/code/master-thesis/code/visual-hull/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/controller/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/utils/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/nodebrowser/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/dashboard/"
+ "/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/aggregatedstudentview/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/browsegrouped/"
+ "/home/toij/code/devilry-django/src/devilry/devilry/apps/core/models/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/rest/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/rest/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/managestudents/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/assignment/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/managestudents/"
+ "/home/toij/.emacs.d/toij/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/model/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/assignment/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/"
+ "/home/toij/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/model/"
+ "/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/sass/"
+ "/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/settings/"
+ "/home/toij/code/trafodjango/src/trafo_objectify/trafo_objectify/"
+ "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/activity/"
+ "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/commentp/"
+ "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/arena/"
+ "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/proj/"
+ "/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/trafo_ui2/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/model/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/controller/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/groupinfo/"
+ "/home/toij/code/devilry-django/src/devilry_rest/devilry_rest/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/store/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/store/"
+ "/home/toij/code/devilry-django/src/devilry_settings/devilry_settings/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/"
+ "/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/"
+ "/home/toij/code/devilry-django/devenv/"
+ "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/rest/"
+ "/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/"
+ "/home/toij/code/devilry-django/src/devilry_developer/"
+ "/home/toij/code/"
+ "/home/toij/code/symphonical/symphonical2/harmony/"
+ "/home/toij/code/symphonical/symphonical2/harmony/prodenv/djangosettings/"
+ "/home/toij/code/djangotestproject/"
+ "/home/toij/code/djangotestproject/src/my_example/my_example/"
+ "/home/toij/code/symphonical/symphonical2/harmony/settings/"
+ "/home/toij/code/symphonical/symphonical2/harmony/prodenv/"
+ "/home/toij/code/symphonical/symphonical2/harmony/prodenv/symphonical_awsfab/"
+ "/home/toij/code/devilry-django/src/devilry_student/devilry_student/tests/rest/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "main.cpp"
- "Makefile"
- "FjeldstadSilhouettes.cpp"
- "MatusikSilhouettes.cpp"
- "RayPoint.cpp"
- "RayInterval.cpp"
- "SimpleVisualHull.cpp"
- "FjeldstadSilhouettes.h"
- "RayInterval.h"
- "ImageUtils.h"
+ "AggregatedStudentInfoController.js"
+ "UrlLookup.js"
+ "NodeDetailsOverview.js"
+ "Navigator.js"
+ "DashboardOverview.js"
+ "models.py"
+ "AggregatedStudentInfoOverview.js"
+ "BrowseGrouped.js"
+ "candidate.py"
+ "aggregatedstudentinfo.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/toij/code/master-thesis/code/visual-hull/" (20153 5009) "../" "Makefile" "main" "Ray2D.h" "SimpleVisualHull.cpp" "Ray2D.cpp" "FjeldstadSilhouettes.h" "RayInterval.o" "FjeldstadSilhouettes.cpp" "VisualHull.o" "VisualHull.cpp" "Interval.cpp" "test.cpp" "RayPoint.o" "MatusikSilhouettes.cpp" "main.o" "fmatrix.xml" "camera03.png" "MatusikSilhouettes.hpp" "camera06.png" "Silhouette.cpp" "RayPoint.h" "ImageUtils.o" "Interval.h" "main.cpp" "./" "VisualHull.h" "MatusikSilhouettes.o" "SimpleVisualHull.o" "CameraParameters.cpp" "CameraParameters.hpp" "SimpleVisualHull.h" "ImageUtils.h" "Silhouette.h" "visualHull" "TAGS" "ImageUtils.cpp" "RayInterval.cpp" "RayPoint.cpp" "FjeldstadSilhouettes.o" "silhouettes/" "RayInterval.h")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/controller/" (21056 6412) "DashboardController.js" "./" "../" "NodeBrowserController.js" "AggregatedStudentInfoController.js")
 
- ("/home/toij/code/master-thesis/code/" (20112 41929) "../" "background-subtraction/" "visual-hull/" "examples_testing/" "./" "ibvh.zip")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/aggregatedstudentview/" (21056 28383) "./" "../" "AggregatedStudentInfoOverview.js")
 
- ("/home/toij/code/master-thesis/" (20111 17445) "master-guidelines.pdf" "../" "presentation/" "notes/" "code/" "mindmaps/" "books/" "./" "articles/" "Msreport-template.tgz" "msreport-template/" ".git/" "other-thesis/" ".gitignore")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/utils/" (21056 6412) "./" "../" "UrlLookup.js")
 
- ("/home/toij/code/" (20114 63891) "../" "raw-converter/" "capture-kristian-gaar.avi" "Untitled Folder 2/" "Untitled Folder/" "net-2.6/" "fjelstad-visual-hull/" "3241_Code/" "3241_Code_0.zip" "examples_testing/" "./" "ibvh/" "master-thesis/" "ibvh.zip")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/dashboard/" (21056 26276) "./" "../" "DashboardOverview.js" "BetaWarning.js" "ToplevelNodeList.js")
 
- ("/home/toij/" (20143 63275) ".local/" "workspace/" "../" ".swt/" "Desktop/" "aur-packages/" ".emacs.d/" ".simemacs" ".emacs" ".esd_auth" "#gpu_v-hull#" "emacs-config/" ".gvfs/" ".fontconfig/" ".nvidia-settings-rc" ".wine/" ".bashrc~" ".bash_logout" "code/" ".gconfd/" ".dropbox/" ".gitconfig" "Dropbox/" ".gconf/" ".bash_profile" ".xsession-errors" ".Skype/" ".gnome2/" ".adobe/" ".xsession" ".gimp-2.6/" "./" "Spotify Installer.exe" ".pulse/" ".bashrc" ".cache/" ".pulse-cookie" ".ssh/" ".mozilla/" ".gtk-bookmarks" ".bash_history" ".xinitrc" "gpu_v-hull" ".pki/" ".eclipse/" ".ICEauthority" "emacs-config.tgz" ".mission-control/" "Downloads/" ".Xauthority" "wine-installers/" ".emacs~" ".macromedia/" ".thumbnails/" ".dbus/" ".config/" ".lesshst" ".emacs-toij/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/rest/" (21056 25341) "urls.pyc" "./" "aggregatedstudentinfo.py" "../" "__init__.pyc" "__init__.py" "nodedetails.pyc" "urls.py" "nodedetails.py" "toplevel_node_listing.pyc" "toplevel_node_listing.py" "aggregatedstudentinfo.pyc")
+
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/" (21039 676) "urls.pyc" "static/" "fabfile.py" "./" "migrations/" "locale/" "registry.pyc" "rest/" "tests/" "models.pyc" "../" "registry.py" "__init__.pyc" "__init__.py" "templates/" "pluginhelpers.pyc" "fabfile.pyc" "models.py" "views.py" "urls.py" "views.pyc" "pluginhelpers.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/" (20865 1076) "devilry_qualifiesforexam.egg-info/" "setup.py" "devilry_qualifiesforexam/" "./" "LICENSE" "../" "README.rst" "MANIFEST.in")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/rest/" (21056 18041) "urls.pyc" "helpers.py" "aggregated_groupinfo.py" "open_groups.py" "recent_feedbacks.py" "results.py" "open_groups.pyc" "#results.py#" "./" "find_groups.pyc" "add_delivery.pyc" ".#results.py" "../" "recent_feedbacks.pyc" "aggregated_groupinfo.pyc" "errors.py" "__init__.pyc" "helpers.pyc" "__init__.py" "results.pyc" "errors.pyc" "recent_deliveries.pyc" "urls.py" "add_delivery.py" "find_groups.py" "recent_deliveries.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/" (21056 6412) "aggregatedstudentview/" "./" "../" "dashboard/" "nodebrowser/")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/" (21056 6412) "app.js" "./" "resources/" "app-all.js" "../" "app/")
+
+ ("/home/toij/code/devilry-django/src/devilry/devilry/apps/core/models/" (21056 6494) "subject.py" "model_utils.pyc" "abstract_applicationkeyvalue.pyc" "assignment.pyc" "custom_db_fields.py" "deliverytypes.pyc" "abstract_is_admin.pyc" "examiner.pyc" "relateduser.pyc" "basenode.pyc" "abstract_is_candidate.pyc" "filemeta.py" "assignment.py" "assignment_group.py" "period.pyc" "filemeta.pyc" "static_feedback.py" "candidate.pyc" "__init__.pyc" "basenode.py" "period.py" "delivery.py" "abstract_is_examiner.pyc" "__init__.py" "delivery.pyc" "relateduser.py" "node.py" "static_feedback.pyc" "save_interface.py" "assignment_group.pyc" "devilryuserprofile.py" "subject.pyc" "deadline.pyc" "model_utils.py" "examiner.py" "save_interface.pyc" "abstract_is_admin.py" "node.pyc" "abstract_is_candidate.py" "deadline.py" "abstract_is_examiner.py" "candidate.py" "devilryuserprofile.pyc" "deliverytypes.py" "abstract_applicationkeyvalue.py" "custom_db_fields.pyc" "../" "./")
+
+ ("/home/toij/code/devilry-django/src/devilry/devilry/apps/" (20865 4412) "gradeform_gradeeditor/" "core/" "basicform_gradeeditor/" "./" "student/" "extjsux/" "approved_gradeeditor/" "superadmin/" "statistics/" "jsfiledownload/" "theme/" "../" "markup/" "asminimalaspossible_gradeeditor/" "__init__.pyc" "examiner/" "gradeeditors/" "coredao/" "__init__.py" "autoset_empty_email_by_username/" "send_email_to_students/" "extjshelpers/" "authenticate/" "commentform_gradeeditor/" "administrator/" "manual_gradeeditor/" "developertools/" "autograde_gradeeditor/")
+
+ ("/home/toij/code/devilry-django/src/devilry/devilry/" (21056 6500) "coreutils/" "./" "simplified/" "restful/" "../" "version.py" ".coveragerc" "version.pyc" "__init__.pyc" "__init__.py" "utils/" "adminscripts/" "devilryadmin/" "apps/" "defaults/")
+
+ ("/home/toij/code/devilry-django/src/devilry/" (21056 6412) "setup.py" "./" "devilry/" "../" "devilry.egg-info/")
+
+ ("/home/toij/.emacs.d/toij/" (21054 6302) "./" "tempo-c-cpp.el~" "my-init.el" "../" "my-init.el~" "my-key-bindings.el" "smooth-scrolling.el" "tempo-c-cpp.el" "my-functions.el")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/subject/" (20956 25289) "ListOfPeriods.js" "./" "../" "SubjectOverview.js" "ListAll.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/managestudents/" (21054 6492) "./" "Select.js" "../" "ManageStudentsController.js" "MultipleGroupsSelectedViewPlugin.js" "NoGroupSelectedViewPlugin.js" "SingleGroupSelectedViewPlugin.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/" (21053 37100) "app.js" "./" "jasminespecs/" "resources/" "app-all.js" "../" "app/")
+
+ ("/home/toij/.emacs.d/elpa/" (21051 22099) "magit-1.1.0/" "ff" "find-file-in-project-3.0/" "./" "auctex-11.86/" "archives/" "dired-single-1.7.0/" "inf-ruby-2.2.3/" "../" "scss-mode-0.5.0/" "idle-highlight-mode-1.1.2/" "gist-0.5/" "auctex-readme.txt" "cmake-mode-20110824/" "yaml-mode-0.0.7/")
+
+ ("/home/toij/.emacs.d/" (21052 46269) "README.md" "starter-kit-registers.el" "starter-kit-defuns.el" "starter-kit-eshell.el" "elpa-to-submit/" "session.10f19dc582622376c0137232936132224600000019140044" "dominating-file.el" "starter-kit-bindings.el" "starter-kit-ruby.el" "session.1087eeb6dc74a9e6c6137925870690635500000020080047" "auto-save-list/" "session.10bd16c9aa73af0ab6137535233718456000000019780047" "starter-kit-elpa.el" "session.10ab9f3af11b690260137664388948554200000018970048" "session.105f1bb3623b0cde40137950353114498200000020150048" "starter-kit-perl.el" "loaddefs.el" "init.el" "session.10fe9abaaf726807f9137217070059257700000017840043" "%backup%~" "package.el" "TODO" "url/" "starter-kit-lisp.el" "session.107ffd7c0be8fdac47133140521364270400000016010050" "COPYING" "starter-kit-js.el" "elpa/" "backups/" "themes/" ".git/" "tramp" "session.1094b815bc013391f13722336068438400000019320044" "toij/" "places" ".gitignore" "starter-kit-misc.el" "../" "./")
+
+ ("/home/toij/code/" (21049 44356) "symphonical/" "nodejslearning/" "./" "djangotestproject/" "devilry-django/" "emacs-color-themes/" "../" "devilry_file_upload/" "master-thesis/" "test.html" "tworide.github.io/" "awsfabrictasks/" "nrk-radio/" "calc2latex_024_eur_latex/" "trafodjango/" "verdione/" "devilry.github.com/")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/assignment/" (20865 415) "AssignmentOverview.js" "GradeEditorSelectWidget.js" "EditPublishingTimePanel.js" "EditDeadlineHandlingWidget.js" "./" "EditAnonymousPanel.js" "../" "EditDeadlineHandlingPanel.js" "EditPublishingTimeWidget.js" "EditAnonymousWidget.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/managestudents/" (21053 40934) "TagsHelp.js" "GridOfGroupsBase.js" "AutocompleteRelatedUserWidget.js" "SingleGroupSelectedView.js" "SortByButton.js" "AutocompleteGroupWidget.js" "./" "DeadlinesContainer.js" "ExaminersHelp.js" "NoGroupSelectedView.js" "DeliveryPanel.js" "SelectedGroupsSummaryGrid.js" "../" "MultipleGroupsSelectedView.js" "ManageStudentsOnSingle.js" "ListOfGroups.js" "MergeGroups.js" "ManageExaminersOnSingle.js" "SelectedGroupsButton.js" "GroupHelp.js" "SelectedGroupsMenu.js" "StudentsInGroupGrid.js" "DeadlinePanel.js" "TagsInGroupGrid.js" "ManageStudentsOverview.js" "SelectExaminersGrid.js" "ChooseTagsPanel.js" "ExaminersInGroupGrid.js" "ManageExaminersOnMultiple.js" "HelpPanel.js" "SelectGroupsBySearchWidget.js" "DynamicLoadMenu.js" "SingleMetaInfo.js" "ManageTagsOnSingle.js" "MultiDangerousActions.js" "ManageTagsOnMultiple.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/assignment/" (20865 415) "./" "EditDeadlineHandling.js" "../" "AssignmentController.js" "EditGradeEditor.js" "EditAnonymous.js" "EditPublishingTime.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/model/" (20865 415) "MergeIntoGroup.js" "CreateNewAssignment.js" "RelatedStudentRo.js" "ExaminerStat.js" "AllWhereIsAdmin.js" "./" "DeadlineBulk.js" "ActiveAssignment.js" "GradeEditorConfig.js" "RelatedExaminer.js" "AggregatedGroupInfo.js" "Period.js" "Examiner.js" "GradeEditor.js" "Tag.js" "../" "RelatedExaminerRo.js" "RelatedUserBase.js" "AllActiveWhereIsAdmin.js" "PopFromGroup.js" "Subject.js" "Group.js" "Candidate.js" "Assignment.js" "AggregatedRelatedStudentInfo.js" "GradeEditorRegistryItem.js" "DetailedPeriodOverview.js" "PassedPreviousPeriodItem.js" "RelatedStudent.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/" (21053 37100) "CreateNewPeriod.js" "CreateNewAssignment.js" "Dashboard.js" "BulkManageDeadlines.js" "AllWhereIsAdmin.js" "./" "DetailedPeriodOverviewController.js" "RelatedUsersBase.js" "GradeEditor.js" "managestudents/" "subject/" "ExaminerStatsController.js" "../" "RelatedStudents.js" "PassedPreviousPeriodController.js" "assignment/" "period/" "AddGroups.js" "RelatedExaminers.js" "guides/" "GuideSystem.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/model/" (20993 4273) "GroupedResult.js" "./" "OpenGroupDeadlineExpired.js" "../" "OpenGroup.js" "FindGroup.js" "GroupInfo.js" "RecentFeedback.js" "RecentDelivery.js" "OpenGroupDeadlineNotExpired.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/browsegrouped/" (21006 9317) "./" "../" "BrowseGrouped.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/sass/" (20956 25480) "bootstrap.scss" "_mixins.scss" "_spotlight.scss" "./" "_combobox.scss" "_devilry_discussionview.scss" "_extjs.scss" "_devilry_linkstyles.scss" "devilry.scss" "_devilry_alert.scss" "_boundlist.scss" "../" "_help-panel-ui.scss" "_grid.scss" "_icons.scss" "_doesnotexist.scss" "_devilry_variables.scss" "config.rb" "_devilry_bootstrap_extras.scss" "bootstrap_full.scss" "_devilry_extras.scss" "pygments/" "bootstrap/" "_devilry_forms.scss" "_button-uis.scss" "_devilry_mixins.scss" "_devilry_maskstyles.scss")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/" (20865 416) "README.md" "hugearrow/" "icons/" "./" "fonts/" "bgimages/" "sass/" "../" "images/" "stylesheets/" "favicons/")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/" (20865 415) "Icons.js" "./" "resources/" "../")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/" (20865 415) "devilry_theme/" "./" "../")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/" (20865 4413) "static/" "./" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_theme/" (20865 1074) "devilry_theme/" "setup.py" "./" "LICENSE" "devilry_theme.egg-info/" "../" "README.rst" "MANIFEST.in")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/" (20993 9682) "urls.pyc" "static/" "fabfile.py" "./" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "fabfile.pyc" "models.py" "views.py" "urls.py" "views.pyc")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/" (20993 4273) "app.js" "./" "resources/" "app-all.js" "../" "app/")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/" (20956 25289) "./" "add_delivery/" "../" "browsegrouped/" "groupinfo/" "dashboard/")
+
+ ("/home/toij/code/devilry-django/src/devilry_developer/" (21049 36401) "setup.py" "./" "../" "README.rst" "devilry_developer.egg-info/" "devilry_developer/")
+
+ ("/home/toij/code/devilry-django/src/" (20991 42321) "devilry_theme/" "devilry_rest/" "devilry_qualifiesforexam_select/" "devilry_mathjax/" "devilry_helplinks/" "devilry_qualifiesforexam/" "./" "devilry_nodeadmin/" "devilry_useradmin/" "devilry_extjsextras/" "devilry_settings/" "devilry/" "devilry_sandbox/" "devilry_exampleapp/" "devilry_usersearch/" "devilry_authenticateduserinfo/" "devilry_university_translations/" "../" "devilry_examiner/" "devilry_subjectadmin/" "django_devserver/" "devilry_qualifiesforexam_approved/" "devilry_qualifiesforexam_points/" "devilry_header/" "devilry_i18n/" "devilry_frontpage/" "devilry_student/" "devilry_developer/" "devilry_search/")
+
+ ("/home/toij/.sentry/" (21048 23216) "./" "../" "sentry.db" "sentry.conf.py")
+
+ ("/home/toij/code/devilry-django/devenv/sentry/venv/" (21048 22010) "lib/" "./" "../" "include/" "bin/" "local/")
+
+ ("/home/toij/code/devilry-django/devenv/sentry/" (21048 22009) "./" "venv/" "../")
+
+ ("/home/toij/code/devilry-django/devenv/" (21048 21991) "parts/" "README.md" "static/" "fabfile.py" "./" "all-but-exceptiontracebacks.devilry.log" "settings_test.py" ".mr.developer.cfg" ".pydevproject" "settings_dev.py" "buildout.cfg" "db.sqlite3" "request.devilry.log" "venv/" "debug-containing-sqlstatements.db.devilry.log" "db.devilry.log" "sentry/" "settings_test.pyc" "../" "email.devilry.log" "log/" ".project" "__init__.pyc" "deliverystorehier/" "devilry_whoosh_index/" ".installed.cfg" "__init__.py" "db_and_deliveries_stash/" "var/" "settings_dev.pyc" "fabfile.pyc" "xxx/" "develop-eggs/" "bin/" "settings_extjsbuild.py" "exception.devilry.log" "settings_extjsbuild.pyc" "settings_noextjsdebug.py")
+
+ ("/home/toij/code/trafodjango/" (21048 1024) "./" "versions.cfg" "src/" "runtests" "docs/" "manage.py" "vagrant/" "update.sh" "tests/" "devenv_vagrant/" "fixtures/" "deploy/" "../" "README.rst" "bootstrap.py" ".slash_ignore" "__init__.py" "contrib/" "templates/" "deployenv_test/" "development-base.cfg" "settings.py" "deploy-base.cfg" "settings_tests.py" "devenv/" ".git/" "buildoutcache/" "deployenv_prod/" "wsgi.py" ".gitignore" "buildout-base.cfg")
+
+ ("/home/toij/code/trafodjango/src/trafo_objectify/trafo_objectify/" (21048 5361) "urls.pyc" "objectify_media.py" "identicon.pyc" "awstranscode.py" "tasks.py" "fabfile.py" "objectify_project.pyc" "./" "identicon.py" "objectify_requestmoney.py" "objectify_project.py" "locale/" "registry.pyc" "rest/" "admin.py" "trafo_objectify_test/" "tests/" "models.pyc" "pdftoimages.pyc" "imageutils.pyc" "../" "audiotranscoder.pyc" "textutils.py" "registry.py" "admin.pyc" "objectify_news.py" "pdftoimages.py" "__init__.pyc" "audiotranscoder.py" "objectify_member.py" "objectify_comment.py" "__init__.py" "templates/" "tasks.pyc" "management/" "objectify_news.pyc" "objectify_media.pyc" "awstranscode.pyc" "models.py" "imageutils.py" "urls.py" "objectify_requestmoney.pyc" "objectify_member.pyc")
+
+ ("/home/toij/code/trafodjango/src/trafo_objectify/" (21048 1063) "setup.py" "./" "../" "trafo_objectify.egg-info/" "trafo_objectify/")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/activity/" (21048 13666) "urls.pyc" "feed.pyc" "tasks.py" "./" "migrations/" "signals.pyc" "models.pyc" "fixtures/" "../" "notes.md" "signals.py" "__init__.pyc" "templatetags/" "__init__.py" "tasks.pyc" "management/" "models.py" "views.py" "urls.py" "feed.py" "views.pyc" "listeners.py" "context_processors.py")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/commentp/" (21048 5361) "urls.pyc" "forms.py" "./" "migrations/" "admin.py" "models.pyc" "../" "admin.pyc" "__init__.pyc" "templatetags/" "__init__.py" "models.py" "views.py" "urls.py" "listeners.py")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/arena/" (21048 5362) "urls.pyc" "forms.py" "./" "migrations/" "admin.py" "models.pyc" "fixtures/" "../" "convert.py" "admin.pyc" "__init__.pyc" "__init__.py" "management/" "context_processors.pyc" "models.py" "views.py" "urls.py" "listeners.py" "context_processors.py")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/proj/" (21048 5361) "urls.pyc" "forms.py" "./" "migrations/" "models.pyc" "../" "__init__.pyc" "__init__.py" "models.py" "views.py" "urls.py")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/" (21048 3465) "commentp/" "legacy/" "./" "stats/" "pages/" "news/" "requests/" "proj/" "arena/" "../" "adm/" "__init__.pyc" "common/" "__init__.py" "members/" "thumbs/" "activity/" "newsletter/" "listeners.py" "registration/")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/trafo/" (21048 1269) "fabfile.py" "./" "locale/" "../" "__init__.pyc" "__init__.py" "apps/")
+
+ ("/home/toij/code/trafodjango/src/trafo.apps/" (21048 1063) "setup.py" "./" "../" "trafo.apps.egg-info/" "trafo/")
+
+ ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/trafo_ui2/" (21048 7514) "package.json" "README.md" "./" "Cakefile" "custom_js/" "dustjs_templates/" "requireJsBuild.js" "components/" "../" "images/" "node_modules/" "component.json" "built-app.js" "app_js/" "app_coffee/" "testimages/" "favicons/" "bootstrap/" "styles/" ".gitignore")
+
+ ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/" (21048 1022) "./" "../" "trafo_ui2/")
+
+ ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/" (21048 5361) "urls.pyc" "static/" "./" "tests/" "models.pyc" "utils.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py" "utils.py" "views.py" "urls.py" "views.pyc")
+
+ ("/home/toij/code/trafodjango/src/trafo_ui2/" (21048 1063) "setup.py" "./" "../" "trafo_ui2.egg-info/" "trafo_ui2/")
+
+ ("/home/toij/code/trafodjango/src/" (21048 1056) "./" "trafo_defaults/" "trafo.globalstatics/" "django-bitfield/" "../" "django-dist/" "django_devserver/" "trafo_develop/" "trafo_deploy/" "trafo.apps/" "trafo_objectify/" "trafo_ui2/" "django-tabs/" "trafo_admin/" "trafo_sysadmintools/" ".gitignore")
+
+ ("/home/toij/code/trafodjango/src/trafo_develop/" (21048 1064) "trafo_develop.egg-info/" "setup.py" "./" "../" "trafo_develop/")
+
+ ("/home/toij/code/trafodjango/src/trafo_develop/trafo_develop/" (21048 5360) "testaudios/" "testvideo.pyc" "testaudio.py" "fabrictasks.pyc" "./" "devsettings.pyc" "devsettings_prodlike.py" "devurls.pyc" "testaudio.pyc" "models.pyc" "log.pyc" "devsettings.py" "testimage.pyc" "fixtures/" "../" "testpdf.pyc" "__init__.pyc" "testpdfs/" "testvideo.py" "reset_testdb.sql" "__init__.py" "management/" "devsettings_test.py" "log.py" "testvideos/" "devsettings_mysql.py" "models.py" "testimage.py" "testimages/" "testpdf.py" "fabrictasks.py" "huge_testimages/" "rest_testclient.py" "devurls.py")
+
+ ("/home/" (20083 52503) "./" "lost+found/" "toij/" "../" ".ecryptfs/")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/model/" (21045 55364) "ToplevelNode.js" "./" "../" "NodeDetail.js" "AggregatedStudentInfoModel.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/store/" (21044 44462) "./" "../" "AggregatedStudentInfoStore.js" "ToplevelNodes.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_rest/devilry_rest/" (20993 7788) "./" "formfields.py" "serializehelpers.pyc" "models.pyc" "auth.py" "../" "__init__.pyc" "formfields.pyc" "__init__.py" "testclient.pyc" "testclient.py" "models.py" "auth.pyc" "serializehelpers.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_rest/" (20993 4165) "devilry_rest/" "setup.py" "./" "../" "README.rst" "devilry_rest.egg-info/")
+
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/devilry_qualifiesforexam_points/locale/nb/LC_MESSAGES/" (20956 25289) "./" "django.mo" "../" "django.po")
+
+ ("/home/toij/.emacs.d/themes/" (20956 15549) "./" "dorsey-theme.el" "../" "hickey-theme.el" "wilson-theme.el" "fogus-theme.el")
+
+ ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/locale/nb/LC_MESSAGES/" (20956 25734) "djangojs.po" "./" "djangojs.mo" "../" "django.po")
+
+ ("/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/" (21044 38148) "fabrictasks.pyc" "buildoutrecipes.py" "./" "dev_urls.pyc" "../" "dummy_haystack_search_sites.py" "__init__.pyc" "__init__.py" "buildoutrecipes.pyc" "settings/" "dev_urls.py" "models.py" "dummy_haystack_search_sites.pyc" "fabrictasks.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/rest/" (21044 38713) "urls.pyc" "subject.py" "aggregated_groupinfo.py" "popfromgroup.pyc" "viewbase.pyc" "assignment.pyc" "relateduser_assignment_ro.pyc" "mergeintogroup.py" "viewbase.py" "passedinpreviousperiod.pyc" "relateduser.pyc" "log.pyc" "auth.py" "resources.pyc" "popfromgroup.py" "assignment.py" "allwhereisadmin.py" "period.pyc" "aggregated_groupinfo.pyc" "errors.py" "createnewassignment.pyc" "detailedperiodoverview.pyc" "relateduser_assignment_ro.py" "__init__.pyc" "fields.pyc" "mergeintogroup.pyc" "period.py" "__init__.py" "relateduser.py" "errors.pyc" "allwhereisadmin.pyc" "fields.py" "log.py" "deadlinesbulk.py" "subject.pyc" "examinerstats.py" "urls.py" "examinerstats.pyc" "auth.pyc" "passedinpreviousperiod.py" "deadlinesbulk.pyc" "mixins.py" "detailedperiodoverview.py" "createnewassignment.py" "resources.py" "mixins.pyc" "group.py" "group.pyc" "../" "./")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/" (20865 415) "createnewperiod/" "DangerousActions.js" "DeleteDjangoRestframeworkRecordDialog.js" "./" "detailedperiodoverview/" "EditSidebarContainer.js" "ManageAdminsPanel.js" "managestudents/" "subject/" "../" "guidesystem/" "passedpreviousperiod/" "gradeeditor/" "assignment/" "period/" "allwhereisadmin/" "dashboard/" "bulkmanagedeadlines/" "addgroups/" "guides/" "relatedstudents/" "AdminsBox.js" "createnewassignment/" "examinerstats/" "relatedexaminers/" "RenameBasenodeWindow.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/" (20865 415) "./" "controller/" "view/" "../" "store/" "utils/" "model/")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/" (20865 415) "./" "../" "devilry_subjectadmin/")
+
+ ("/home/toij/code/devilry-django/src/devilry/devilry/apps/core/" (21039 676) "static/" "tasks.py" "fabfile.py" "search_indexes.pyc" "./" "migrations/" "models/" "locale/" "tests/" "deliverystore.py" "../" "__init__.pyc" "__init__.py" "templates/" "tasks.pyc" "pluginloader.pyc" "search_indexes.py" "testhelpers.pyc" "testhelper.py" "testhelpers.py" "testhelper.pyc" "deliverystore.pyc" "pluginloader.py")
+
+ ("/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/" (21040 32639) "./" "mysqldebug.pyc" "../" "sqlitedebug.py" "sqlitedebug.pyc" "__init__.pyc" "debugbase.py" "__init__.py" "debugbase.pyc" "mysqldebug.py")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/" (20865 415) "./" "controller/" "view/" "../" "store/" "model/")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/" (20865 415) "./" "../" "devilry_student/")
+
+ ("/home/toij/code/devilry-django/src/devilry_student/" (20865 1074) "setup.py" "./" "LICENSE" "../" "README.rst" "devilry_student.egg-info/" "MANIFEST.in" "devilry_student/")
+
+ ("/home/toij/code/devilry-django/src/devilry_settings/devilry_settings/" (21039 846) "urls.pyc" "i18n.pyc" "default_urls.pyc" "i18n.py" "default_settings.py" "default_root_urlconf.py" "default_urls.py" "./" "testsuiterunner.pyc" "models.pyc" "log.pyc" "../" "__init__.pyc" "__init__.py" "testsuiterunner.py" "log.py" "models.py" "views.py" "urls.py" "views.pyc" "default_settings.pyc")
+
+ ("/home/toij/code/devilry-django/" (21039 676) "./" "versions.cfg" "src/" "add-git-remotes.py" "docs/" "vagrant/" "devilry-log" "LICENSE" "dbupdates/" "releasenotes/" "../" "awsdemo/" "production-base.cfg" "README.rst" "bootstrap.py" "development-base.cfg" "devenv/" ".travis.yml" ".git/" "buildoutcache/" "wsgi/" ".gitignore" "buildout-base.cfg" "example-productionenv/")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/" (20865 1074) "setup.py" "./" "devilry_nodeadmin/" "devilry_nodeadmin.egg-info/" "../" "README.rst")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/" (20956 26203) "urls.pyc" "static/" "fabfile.py" "./" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py" "views.py" "urls.py" "views.pyc")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/" (20865 415) "./" "devilry_nodeadmin/" "../")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/" (20956 25289) "./" "controller/" "view/" "../" "store/" "utils/" "model/")
+
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/nodebrowser/" (21039 8926) "./" "../" "NodeBrowserOverview.js" "NodeDetailsOverview.js" "NodeChildrenList.js" "Navigator.js")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/" (21024 41754) "urls.pyc" "static/" "fabfile.py" "./" "exportdetailedperiodoverview.py" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "fabfile.pyc" "models.py" "views.py" "urls.py" "exportdetailedperiodoverview.pyc" "views.pyc")
+
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/" (20865 1077) "setup.py" "./" "LICENSE" "../" "devilry_subjectadmin/" "README.rst" "MANIFEST.in" "devilry_subjectadmin.egg-info/")
+
+ ("/home/toij/code/verdione/" (20541 26335) "CMake.modules/" "./" "examples/" "tests/" "../" "README.txt" "CMakeLists.txt" "build/" "mini_trigger_box/" "contrib/" "tools/" "notes.txt" "libnorthlight/" ".git/" "verdione/" "config.h.in" "libopenframeworks/" "private/" ".gitignore" "codingstyle.txt")
+
+ ("/home/toij/code/verdione/tests/videoconverterProfiler/" (20541 26827) "vcProfiler.cpp" "vcLiveProfiler.cpp" "./" "../" "CMakeLists.txt" "data/")
+
+ ("/home/toij/code/verdione/tests/" (20541 26869) "./" "videoconverterProfiler/" "x264profiler/" "../" "framegrabberTests/" "CMakeLists.txt" "utilTests/")
+
+ ("/home/toij/code/nrk-radio/" (20560 64067) "./" "../" "nrk-programlist.wiki/" "nrk-programlist/")
+
+ ("/home/toij/code/symphonical/symphonical2/harmony/prodenv/symphonical_awsfab/" (21010 22098) "setup_and_deploy.py" "./" "djangotasks.pyc" "supervisor.pyc" "awsrds.py" "awsrds.pyc" "utils.pyc" "../" "setupubuntu.py" "__init__.pyc" "launch_instance.pyc" "deploy.pyc" "__init__.py" "supervisor.py" "mysql.py" "launch_instance.py" "djangotasks.py" "setupubuntu.pyc" "utils.py" "deploy.py" "setup_and_deploy.pyc" "mysql.pyc")
+
+ ("/home/toij/code/symphonical/symphonical2/harmony/" (21010 23452) "urls.pyc" "settings.py.orig" ".tx/" "./" "versions.cfg" "custom_s3_staticfiles_storage.py" "docs/" "manage.py" "js_and_cssbuilder.py" "locale/" "database_router.py" "media/" "mrdevelopersources/" "docs-source/" "aws/" "deploy/" "../" "README.txt" "bootstrap.py" "__init__.pyc" "constants.py" "__init__.py" "templates/" "settings/" ".gondor/" "requirements/" "devenv/" "context_processors.pyc" "bin/" "urls.py" "wsgi.py" "ssl_cert/" "test_mail.py" "custom_s3_staticfiles_storage.pyc" "prodenv/" "buildout-base.cfg" "apps/" "south_fake_init.sh" "context_processors.py")
+
+ ("/home/toij/code/symphonical/symphonical2/harmony/prodenv/djangosettings/" (21010 22098) "awsrds_test.py" "./" "awsrds_production.py" "nodebug_base.py" "../" "__init__.pyc" "__init__.py" "mysql_nodebug.pyc" "mysql_nodebug.py" "nodebug_base.pyc" "dummy.py" "logexceptionsmiddleware.py")
+
+ ("/home/toij/code/symphonical/symphonical2/harmony/devenv/" (21006 3146) "parts/" "fabfile.py" "./" ".mr.developer.cfg" "buildout-omelette.cfg" "djangosettings/" "buildout.cfg" "venv/" "../" ".installed.cfg" "fabfile.pyc" "develop-eggs/" "bin/" ".gitignore")
+
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/static/my_example/" (21010 13011) "./" "hello.txt" "../" "test.txt")
+
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/static/" (21010 13011) "./" "../" "my_example/")
+
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/" (21010 19130) "static/" "./" "models.pyc" "../" "__init__.pyc" "__init__.py" "staticfiles_storage.pyc" "models.py" "staticfiles_storage.py")
+
+ ("/home/toij/code/djangotestproject/" (21010 18942) "parts/" "README.md" "djangourls.py" "./" ".mr.developer.cfg" "src/" "LICENSE" "buildout.cfg" "djangosettings_local.py" "venv/" "djangosettings.pyc" "../" "djangosettings_local.pyc" "bootstrap.py" "__init__.pyc" ".installed.cfg" "djangosettings.py" "__init__.py" "develop-eggs/" "bin/" ".git/" "buildoutcache/" ".gitignore")
+
+ ("/home/toij/code/verdione/examples/openFrameworks/devSimpleLightExample/" (20541 24591) "testApp.cpp" "./" "main.cpp" "../" "CMakeLists.txt" "data/" "testApp.h")
 )
 
 ;; ----- ido-unc-hosts-cache -----

@@ -7,12 +7,16 @@
 ;; 'y' or 'n' instead of "yes" or "no"
 (fset 'yes-or-no-p 'y-or-n-p)
 
+(setq js-indent-level 4)
+
 ;; smooth-scrolling removes the jerkyness of emacs's default scrolling
 (require 'smooth-scrolling)
 
 ;; ============================================================
 ;; Enable Color-theme and zenburn
 ;; ============================================================
+
+(require 'coffee-mode)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Sublime Text 2 Themes (Supported by >24) ;;
