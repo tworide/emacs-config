@@ -59,6 +59,15 @@
 
 (add-hook 'LaTeX-mode-hook 'flyspell-mode nil)
 
+;;Nomenclature for latex
+(eval-after-load "tex"
+  '(add-to-list 'TeX-command-list 
+                '("Nomenclature" "makeindex %s.nlo -s nomencl.ist -o %s.nls"
+                  (lambda (name command file)
+                    (TeX-run-compile name command file)
+                    (TeX-process-set-variable file 'TeX-command-next TeX-command-default))
+                  nil t :help "Create nomenclature file")))
+
 (require 'dbus)
 (defun th-evince-sync (file linecol)
   (let ((buf (get-buffer file))
@@ -77,3 +86,8 @@
    :session nil "/org/gnome/evince/Window/0"
    "org.gnome.evince.Window" "SyncSource"
    'th-evince-sync))
+
+
+
+(require 'gtags)
+(autoload 'gtags-mode "gtags" "" t)
