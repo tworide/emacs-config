@@ -2,6 +2,48 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/toij/src/verdione/libnorthlight/" . "calibrate/")
+ ("/home/toij/src/verdione/" . "libnorthlight/")
+ ("/home/toij/src/" . "verdione/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/app/" . "controller/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/app/" . "controller/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/" . "app/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/" . "devilry_examiner/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/" . "devilry_examiner/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/docs/" . "html/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/" . "docs/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/static/" . "css/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/no/" . "LC_MESSAGES/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/" . "no/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/no/" . "LC_MESSAGES/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/" . "no/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/product/" . "admin/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/" . "shop/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/" . "templates/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/" . "shop/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/templates/" . "localsite/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/" . "templates/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/" . "simple/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/" . "product/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/" . "templates/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/" . "satchmo_store/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/" . "apps/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/" . "email/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/" . "registration/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/" . "static/")
+ ("/home/toij/code/rigid-shop/src/satchmo/" . "satchmo/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/templates/" . "localsite/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/" . "store/")
+ ("/home/toij/code/rigid-shop/src/testapp/" . "testapp/")
+ ("/home/toij/code/rigid-shop/src/" . "testapp/")
+ ("/home/toij/code/rigid-shop/" . "src/")
+ ("/home/toij/code/djangotestproject/venv/local/lib/" . "python2.7/")
+ ("/home/toij/code/djangotestproject/venv/local/" . "lib/")
+ ("/home/toij/code/djangotestproject/venv/" . "local/")
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/templates/" . "search/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/locale/nb/" . "LC_MESSAGES/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/locale/" . "nb/")
  ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/" . "sass/")
  ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/" . "resources/")
  ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/" . "devilry_theme/")
@@ -23,13 +65,13 @@
  ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/" . "devilry_nodeadmin/")
  ("/home/toij/code/devilry-django/src/devilry_nodeadmin/" . "devilry_nodeadmin/")
  ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/" . "static/")
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/" . "controller/")
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/" . "nodebrowser/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/" . "view/")
+ ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/" . "aggregatedstudentview/")
  ("/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/" . "settings/")
  ("/home/toij/code/devilry-django/src/devilry_developer/" . "devilry_developer/")
  ("/home/toij/code/symphonical/symphonical2/harmony/devenv/" . "djangosettings/")
  ("/home/toij/code/djangotestproject/src/my_example/my_example/static/" . "my_example/")
- ("/home/toij/code/djangotestproject/src/my_example/my_example/" . "static/")
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/" . "templates/")
  ("/home/toij/code/djangotestproject/src/my_example/" . "my_example/")
  ("/home/toij/code/djangotestproject/src/" . "my_example/")
  ("/home/toij/code/djangotestproject/" . "src/")
@@ -41,7 +83,7 @@
  ("/home/toij/code/devilry-django/src/devilry/" . "devilry/")
  ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/tests/" . "rest/")
  ("/home/toij/code/devilry-django/src/devilry_settings/" . "devilry_settings/")
- ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/" . "rest/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/" . "buildstatic/")
  ("/home/toij/code/devilry-django/src/devilry_examiner/" . "devilry_examiner/")
  ("/home/toij/code/devilry.github.com/" . "_layouts/")
  ("/home/toij/code/symphonical/symphonical2/vagrantdev/" . "manifests/")
@@ -90,7 +132,7 @@
  ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/" . "static/")
  ("/home/toij/code/devilry-django/src/devilry_subjectadmin/" . "devilry_subjectadmin/")
  ("/home/toij/code/devilry-django/src/devilry_frontpage/" . "devilry_frontpage/")
- ("/home/toij/code/devilry-django/src/" . "devilry_qualifiesforexam/")
+ ("/home/toij/code/devilry-django/src/" . "devilry_examiner/")
  ("/home/toij/code/devilry-django/" . "src/")
  ("/home/toij/code/master-thesis/msreport-template/" . "code-examples/")
  ("/home/toij/code/master-thesis/" . "code/")
@@ -107,13 +149,13 @@
  ("/home/toij/code/verdione/tests/" . "videoconverterProfiler/")
  ("/home/toij/code/verdione/examples/capture/" . "pylonExample/")
  ("/home/toij/code/verdione/examples/" . "openFrameworks/")
- ("/home/toij/.emacs.d/elpa/" . "dired-single-1.7.0/")
+ ("/home/toij/.emacs.d/elpa/" . "flycheck-0.14.1/")
  ("/home/toij/code/verdione/libnorthlight/" . "calibrate/")
  ("/home/toij/code/verdione/" . "private/")
  ("/home/toij/code/" . "devilry-django/")
  ("/home/toij/master/master-thesis/code/visual-hull/" . "opencl/")
  ("/" . "home/")
- ("/home/toij/.emacs.d/" . "toij/")
+ ("/home/toij/.emacs.d/" . "elpa/")
  ("/home/" . "toij/")
  ("/home/toij/NVIDIA_GPU_Computing_SDK/OpenCL/src/" . "oclBandwidthTest/")
  ("/home/toij/NVIDIA_GPU_Computing_SDK/" . "OpenCL/")
@@ -121,278 +163,278 @@
  ("/home/toij/master/master-thesis/" . "msreport-template/")
  ("/home/toij/master/" . "master-thesis/")
  ("/home/toij/espeak-thesis/" . "espeak/")
- ("/home/toij/" . ".emacs.d/")
+ ("/home/toij/" . "code/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/toij/"
+ "/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/"
+ "/home/toij/.emacs.d/elpa/flycheck-0.14.1/"
+ "/home/toij/code/verdione/private/toij/visual_hull/"
+ "/home/toij/code/devilry-django/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/static/css/"
+ "/home/toij/src/verdione/libnorthlight/calibrate/"
+ "/home/toij/.emacs.d/toij/"
+ "/home/toij/.emacs.d/"
+ "/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/app/controller/"
+ "/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/app/controller/"
+ "/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/"
+ "/home/toij/code/symphonical/symphonical2/harmony/settings/"
+ "/home/toij/code/symphonical/symphonical2/harmony/"
+ "/home/toij/code/symphonical/symphonical2/vagrantdev/"
+ "/home/toij/code/djangotestproject/src/my_example/"
+ "/home/toij/code/djangotestproject/"
+ "/home/toij/code/djangotestproject/src/my_example/my_example/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/registration/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/docs/html/"
+ "/home/toij/code/rigid-shop/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/product/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/no/LC_MESSAGES/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/no/LC_MESSAGES/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/email/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/product/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/urls/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/urls/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/"
+ "/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/templates/localsite/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/pdf/"
+ "/home/toij/code/rigid-shop/bin/"
+ "/home/toij/code/rigid-shop/src/satchmo/scripts/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/templates/localsite/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/"
+ "/home/toij/code/rigid-shop/src/testapp/testapp/localsite/"
+ "/home/toij/code/djangotestproject/src/my_example/my_example/templates/search/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/aggregatedstudentview/"
+ "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/locale/nb/LC_MESSAGES/"
+ "/home/toij/.emacs.d/elpa/"
+ "/home/toij/Downloads/"
  "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/controller/"
  "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/utils/"
  "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/nodebrowser/"
  "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/dashboard/"
  "/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/aggregatedstudentview/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/browsegrouped/"
- "/home/toij/code/devilry-django/src/devilry/devilry/apps/core/models/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/rest/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/rest/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/managestudents/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/assignment/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/managestudents/"
- "/home/toij/.emacs.d/toij/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/model/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/assignment/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/"
- "/home/toij/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/model/"
- "/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/sass/"
- "/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/settings/"
- "/home/toij/code/trafodjango/src/trafo_objectify/trafo_objectify/"
- "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/activity/"
- "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/commentp/"
- "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/arena/"
- "/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/proj/"
- "/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/trafo_ui2/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/model/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/controller/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/groupinfo/"
- "/home/toij/code/devilry-django/src/devilry_rest/devilry_rest/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/store/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/store/"
- "/home/toij/code/devilry-django/src/devilry_settings/devilry_settings/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/"
- "/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/"
- "/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/"
- "/home/toij/code/devilry-django/devenv/"
- "/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/rest/"
- "/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/"
- "/home/toij/code/devilry-django/src/devilry_developer/"
- "/home/toij/code/"
- "/home/toij/code/symphonical/symphonical2/harmony/"
- "/home/toij/code/symphonical/symphonical2/harmony/prodenv/djangosettings/"
- "/home/toij/code/djangotestproject/"
- "/home/toij/code/djangotestproject/src/my_example/my_example/"
- "/home/toij/code/symphonical/symphonical2/harmony/settings/"
- "/home/toij/code/symphonical/symphonical2/harmony/prodenv/"
- "/home/toij/code/symphonical/symphonical2/harmony/prodenv/symphonical_awsfab/"
- "/home/toij/code/devilry-django/src/devilry_student/devilry_student/tests/rest/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "AggregatedStudentInfoController.js"
- "UrlLookup.js"
- "NodeDetailsOverview.js"
- "Navigator.js"
- "DashboardOverview.js"
- "models.py"
- "AggregatedStudentInfoOverview.js"
- "BrowseGrouped.js"
- "candidate.py"
- "aggregatedstudentinfo.py"
+ "config.json"
+ "app.coffee"
+ "flycheck.el"
+ "dir"
+ "simplevisualhull.cpp"
+ "Interval.cpp"
+ "add-git-remotes.py"
+ "signin.css"
+ "style.css"
+ "calibrator.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/controller/" (21056 6412) "DashboardController.js" "./" "../" "NodeBrowserController.js" "AggregatedStudentInfoController.js")
+ ("/home/toij/" (21076 8188 613504 502000) ".lesshst" ".pulse/" ".dropbox-dist/" "old-emacsd/" "config.json" ".nets/" "lib/" "testmode/" ".xsession-errors" "djangojs.po" ".goutputstream-CQPUJW" ".xine/" ".freemind/" "code/" "Downloads/" ".Xauthority" ".goutputstream-L2FT6V" ".skype-wrapper/" ".pulse-cookie" ".gconfd/" ".dropbox/" "test/" ".compiz-1/" ".esd_auth" "src/" ".npm/" "stuff/" "tmp/" "share/" "emacs-dir.tar.gz" ".gitconfig" ".dmrc" "auto/" ".goutputstream-Z0QA1W" ".goutputstream-F4IIBW" "simple.db" ".icedtea/" ".pki/" "ffmpeg/" "Desktop/" ".gnupg/" "Music/" ".gnome2/" "djangojs.mo" ".pip/" ".old.emacs.d/" ".Private/" ".ICEauthority" ".bash_logout" ".vagrant.d/" ".bash_history" ".gnuplot-wxt" ".goutputstream-GH6C3W" ".libreoffice/" ".emacs.desktop" ".gvfs/" ".gem/" ".nv/" "Michael_Jackson_s_Private_Home_Movies_Full-WvjlBQ6bbhc.flv.part" "rigidtest.jpg" ".gnome2_private/" ".ssh/" ".aspell.en.prepl" ".gimp-2.6/" ".gconf/" ".filezilla/" ".emacs.d/" ".bashrc" ".goutputstream-8CXR3W" ".shutter/" ".goutputstream-M0UX1W" ".python-eggs/" ".cache/" "ttemp/" ".gnuplot_history" ".synaptic/" ".VirtualBox/" ".nvidia-settings-rc" ".local/" ".gphoto/" "include/" ".goutputstream-SKX7YW" ".goutputstream-U33UWW" ".harpiaConf.xml" ".buildout/" ".ido.last" ".goutputstream-MRO21W" "Ubuntu One/" ".mplayer/" ".macromedia/" ".gstreamer-0.10/" "Documents/" ".dvdcss/" "Dropbox/" ".shotwell/" ".ecryptfs/" ".gegl-0.0/" "Public/" ".dropbox-dist-new/" ".goutputstream-4I912W" "VirtualBox VMs/" ".Skype/" ".frozen-bubble/" ".neverball/" "NVIDIA_GPU_Computing_SDK/" ".goutputstream-DKYB1W" "bin/" ".sudo_as_admin_successful" ".emacs~" ".gtk-bookmarks" ".goutputstream-7NQ1ZW" ".thunderbird/" ".mozilla/" ".dbus/" "Pictures/" ".latexdraw/" "x264/" ".adobe/" ".bashrc~" ".subversion/" "Videos/" ".aspell.en.pws" ".emacs-toij/" ".mission-control/" ".profile" "#.emacs#" ".goutputstream-XOU7ZW" "examples.desktop" ".recentf" "rigidblad" "opencv/" ".fontconfig/" "espeak-thesis/" ".pokerth/" ".goutputstream-G1UI3W" ".sentry/" ".xsession-errors.old" ".thumbnails/" "master/" "Templates/" ".gksu.lock" ".pylint.d/" ".config/" ".goutputstream-QU2Z3W" ".java/" "v" ".goutputstream-PFKJ3W" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/aggregatedstudentview/" (21056 28383) "./" "../" "AggregatedStudentInfoOverview.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/" (21076 7687 761487 826000) "package.json" "./" "Cakefile" "../" "#app.coffee#" "app/" "app.coffee" ".gitignore")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/utils/" (21056 6412) "./" "../" "UrlLookup.js")
+ ("/home/toij/code/devilry-django/" (21076 7687 777487 827000) "./" "versions.cfg" "src/" "add-git-remotes.py" "docs/" "vagrant/" "devilry-log" "LICENSE" "dbupdates/" "#add-git-remotes.py#" "releasenotes/" "../" "awsdemo/" "production-base.cfg" "npm-debug.log" "README.rst" "bootstrap.py" "development-base.cfg" "devenv/" ".travis.yml" ".git/" "buildoutcache/" "wsgi/" ".gitignore" "buildout-base.cfg" "example-productionenv/")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/dashboard/" (21056 26276) "./" "../" "DashboardOverview.js" "BetaWarning.js" "ToplevelNodeList.js")
+ ("/home/toij/.emacs.d/elpa/flycheck-0.14.1/" (21076 7224 633472 405000) "./" "dir" "flycheck-pkg.el" "../" "flycheck.info" "flycheck-pkg.elc" "flycheck.el" "flycheck-autoloads.el")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/rest/" (21056 25341) "urls.pyc" "./" "aggregatedstudentinfo.py" "../" "__init__.pyc" "__init__.py" "nodedetails.pyc" "urls.py" "nodedetails.py" "toplevel_node_listing.pyc" "toplevel_node_listing.py" "aggregatedstudentinfo.pyc")
+ ("/home/toij/code/verdione/private/toij/visual_hull/opencl/toij-opencl/" (20531 42679 160906 109000) "./" "debugutils.h" "../" "vectoradd.cl" "testimage2d.cl" "visualhull.cl" "kernels.cl")
 
- ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/" (21039 676) "urls.pyc" "static/" "fabfile.py" "./" "migrations/" "locale/" "registry.pyc" "rest/" "tests/" "models.pyc" "../" "registry.py" "__init__.pyc" "__init__.py" "templates/" "pluginhelpers.pyc" "fabfile.pyc" "models.py" "views.py" "urls.py" "views.pyc" "pluginhelpers.py")
+ ("/home/toij/code/verdione/private/toij/visual_hull/opencl/" (20325 14654 151974 754000) "./" "../" "toij-opencl/")
 
- ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/" (20865 1076) "devilry_qualifiesforexam.egg-info/" "setup.py" "devilry_qualifiesforexam/" "./" "LICENSE" "../" "README.rst" "MANIFEST.in")
+ ("/home/toij/code/verdione/private/toij/visual_hull/" (21076 6981 569464 310000) "simplevisualhull.h" "oldMakefile" "appconfig.h" "silhouette.h" "opencl/" "Ray2D.cpp" "multisilhouettes.h" "mburysilhouettes.h" "openclwrapper.cpp" "vector4.h" "vector4.cpp" "simplevisualhull.cpp" "imageutils.h" "RayInterval.cpp" "mburysilhouettes.cpp" "Ray2D.h" "RayInterval.h" "appconfig.cpp" "main.cpp" "printtime.h" "openclwrapper.h" "images/" "Interval.cpp" "README.txt" "oclUtils.h" "CMakeLists.txt" "imageutils.cpp" "matrix3x3.cpp" "RayPoint.cpp" "visualhull.cpp" "epipolar.h" "vhtypes.h" "printtime.cpp" "Interval.h" "oclUtils.cpp" "multisilhouettes.cpp" "visualhull.h" "epipolar.cpp" "matrix3x3.h" "RayPoint.h" "matusiksilhouettes.h" "matusiksilhouettes.cpp" "silhouettes/" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/rest/" (21056 18041) "urls.pyc" "helpers.py" "aggregated_groupinfo.py" "open_groups.py" "recent_feedbacks.py" "results.py" "open_groups.pyc" "#results.py#" "./" "find_groups.pyc" "add_delivery.pyc" ".#results.py" "../" "recent_feedbacks.pyc" "aggregated_groupinfo.pyc" "errors.py" "__init__.pyc" "helpers.pyc" "__init__.py" "results.pyc" "errors.pyc" "recent_deliveries.pyc" "urls.py" "add_delivery.py" "find_groups.py" "recent_deliveries.py")
+ ("/home/toij/code/verdione/private/toij/" (20531 57319 269393 605000) "opencl-examples/" "toij-3dexample/" "visual_hull/" "./" "toij-camera3d/" "vh-cmd/" "bgfg-segmentation/" "../" "images/" "CMakeLists.txt" "emptyExample/" "toij-ucCameraExample/" "toij-epilineDraw/" "toij-ofx/" "opencl-wrapper/" "background-subtraction/" "examples_testing/" "toij-pylonExample/")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/" (21056 6412) "aggregatedstudentview/" "./" "../" "dashboard/" "nodebrowser/")
+ ("/home/toij/code/verdione/private/" (20325 14654 99974 751000) "ingesy/" "./" "tomas/" "cotryti/" "steffan/" "echa/" "../" "CMakeLists.txt" "facetracking/" "kjetiend/" "deepakd/" "toij/")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/" (21056 6412) "app.js" "./" "resources/" "app-all.js" "../" "app/")
+ ("/home/toij/code/verdione/" (20541 26335 471221 681000) "CMake.modules/" "./" "examples/" "tests/" "../" "README.txt" "CMakeLists.txt" "build/" "mini_trigger_box/" "contrib/" "tools/" "notes.txt" "libnorthlight/" ".git/" "verdione/" "config.h.in" "libopenframeworks/" "private/" ".gitignore" "codingstyle.txt")
 
- ("/home/toij/code/devilry-django/src/devilry/devilry/apps/core/models/" (21056 6494) "subject.py" "model_utils.pyc" "abstract_applicationkeyvalue.pyc" "assignment.pyc" "custom_db_fields.py" "deliverytypes.pyc" "abstract_is_admin.pyc" "examiner.pyc" "relateduser.pyc" "basenode.pyc" "abstract_is_candidate.pyc" "filemeta.py" "assignment.py" "assignment_group.py" "period.pyc" "filemeta.pyc" "static_feedback.py" "candidate.pyc" "__init__.pyc" "basenode.py" "period.py" "delivery.py" "abstract_is_examiner.pyc" "__init__.py" "delivery.pyc" "relateduser.py" "node.py" "static_feedback.pyc" "save_interface.py" "assignment_group.pyc" "devilryuserprofile.py" "subject.pyc" "deadline.pyc" "model_utils.py" "examiner.py" "save_interface.pyc" "abstract_is_admin.py" "node.pyc" "abstract_is_candidate.py" "deadline.py" "abstract_is_examiner.py" "candidate.py" "devilryuserprofile.pyc" "deliverytypes.py" "abstract_applicationkeyvalue.py" "custom_db_fields.pyc" "../" "./")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/static/css/" (21076 5972 709430 717000) "signin.css" "./" "bootstrap-theme.css" "bootstrap-theme.min.css" "style.css" "../" "bootstrap.css" "jquery.autocomplete.css" "blackbird.css" "bootstrap.min.css")
 
- ("/home/toij/code/devilry-django/src/devilry/devilry/apps/" (20865 4412) "gradeform_gradeeditor/" "core/" "basicform_gradeeditor/" "./" "student/" "extjsux/" "approved_gradeeditor/" "superadmin/" "statistics/" "jsfiledownload/" "theme/" "../" "markup/" "asminimalaspossible_gradeeditor/" "__init__.pyc" "examiner/" "gradeeditors/" "coredao/" "__init__.py" "autoset_empty_email_by_username/" "send_email_to_students/" "extjshelpers/" "authenticate/" "commentform_gradeeditor/" "administrator/" "manual_gradeeditor/" "developertools/" "autograde_gradeeditor/")
+ ("/home/toij/code/rigid-shop/src/testapp/" (21061 56276 454420 455000) "setup.py" "./" "testapp/" "../" "testapp.egg-info/")
 
- ("/home/toij/code/devilry-django/src/devilry/devilry/" (21056 6500) "coreutils/" "./" "simplified/" "restful/" "../" "version.py" ".coveragerc" "version.pyc" "__init__.pyc" "__init__.py" "utils/" "adminscripts/" "devilryadmin/" "apps/" "defaults/")
+ ("/home/toij/Documents/" (20306 49737 116475 618000) "opencl-mem-table.ods" "./" "../")
 
- ("/home/toij/code/devilry-django/src/devilry/" (21056 6412) "setup.py" "./" "devilry/" "../" "devilry.egg-info/")
+ ("/home/toij/src/verdione/libnorthlight/calibrate/" (21076 3770 305357 380000) "calibrator.cpp" "./" "stereoimagecalibrator.cpp" "configuration.h" "singleimagecalibrator.h" "featureextractor.h" "../" "siftwrapper.h" "featureextractor.cpp" "siftwrapper.cpp" "calibrator.h" "stereoimagecalibrator.h" "singleimagecalibrator.cpp" "sift_hess/")
 
- ("/home/toij/.emacs.d/toij/" (21054 6302) "./" "tempo-c-cpp.el~" "my-init.el" "../" "my-init.el~" "my-key-bindings.el" "smooth-scrolling.el" "tempo-c-cpp.el" "my-functions.el")
+ ("/home/toij/src/verdione/libnorthlight/" (20186 49346 854227 531000) "calibrate/" "./" "render/" "filter/" "stream/" "../" "CMakeLists.txt" "codec/" "capture/" "utils/" "net/")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/subject/" (20956 25289) "ListOfPeriods.js" "./" "../" "SubjectOverview.js" "ListAll.js")
+ ("/home/toij/src/verdione/" (20186 49346 730227 527000) "CMake.modules/" "./" "format-files.el" "examples/" "../" "CMakeLists.txt" "mini_trigger_box/" "contrib/" "libnorthlight/" ".git/" "examples_TODO" "verdione/" "config.h.in" "libopenframeworks/" "private/" ".gitignore")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/managestudents/" (21054 6492) "./" "Select.js" "../" "ManageStudentsController.js" "MultipleGroupsSelectedViewPlugin.js" "NoGroupSelectedViewPlugin.js" "SingleGroupSelectedViewPlugin.js")
+ ("/home/toij/src/" (21075 63849 665175 679000) "./" "v4l-utils-0.8.5.tar.bz2" "../" "ffmpeg-0.8.7.tar.bz2" "ffmpeg-0.8.7/" "emacs-24.3.tar.gz" "v4l-utils-0.8.5/" "verdione/")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/" (21053 37100) "app.js" "./" "jasminespecs/" "resources/" "app-all.js" "../" "app/")
+ ("/home/toij/.emacs.d/elpa/" (21076 646 737253 368000) "magit-1.1.0/" "ff" "find-file-in-project-3.0/" "./" "auctex-11.86/" "archives/" "dired-single-1.7.0/" "inf-ruby-2.2.3/" "../" "scss-mode-0.5.0/" "s-1.8.0/" "idle-highlight-mode-1.1.2/" "f-0.11.0/" "coffee-mode-0.4.1/" "gist-0.5/" "dash-2.2.0/" "flycheck-0.14.1/" "coffee-mode-readme.txt" "auctex-readme.txt" "cmake-mode-20110824/" "yaml-mode-0.0.7/")
 
- ("/home/toij/.emacs.d/elpa/" (21051 22099) "magit-1.1.0/" "ff" "find-file-in-project-3.0/" "./" "auctex-11.86/" "archives/" "dired-single-1.7.0/" "inf-ruby-2.2.3/" "../" "scss-mode-0.5.0/" "idle-highlight-mode-1.1.2/" "gist-0.5/" "auctex-readme.txt" "cmake-mode-20110824/" "yaml-mode-0.0.7/")
+ ("/home/toij/.emacs.d/elpa/coffee-mode-0.4.1/" (21058 39843 811515 969000) "coffee-mode-pkg.el" "coffee-mode.el" "./" "coffee-mode-pkg.elc" "coffee-mode-autoloads.el" "../" "coffee-mode.elc")
 
- ("/home/toij/.emacs.d/" (21052 46269) "README.md" "starter-kit-registers.el" "starter-kit-defuns.el" "starter-kit-eshell.el" "elpa-to-submit/" "session.10f19dc582622376c0137232936132224600000019140044" "dominating-file.el" "starter-kit-bindings.el" "starter-kit-ruby.el" "session.1087eeb6dc74a9e6c6137925870690635500000020080047" "auto-save-list/" "session.10bd16c9aa73af0ab6137535233718456000000019780047" "starter-kit-elpa.el" "session.10ab9f3af11b690260137664388948554200000018970048" "session.105f1bb3623b0cde40137950353114498200000020150048" "starter-kit-perl.el" "loaddefs.el" "init.el" "session.10fe9abaaf726807f9137217070059257700000017840043" "%backup%~" "package.el" "TODO" "url/" "starter-kit-lisp.el" "session.107ffd7c0be8fdac47133140521364270400000016010050" "COPYING" "starter-kit-js.el" "elpa/" "backups/" "themes/" ".git/" "tramp" "session.1094b815bc013391f13722336068438400000019320044" "toij/" "places" ".gitignore" "starter-kit-misc.el" "../" "./")
+ ("/home/toij/.emacs.d/toij/" (21076 1656 213286 983000) "./" "tempo-c-cpp.el~" "my-init.el" "../" "my-init.el~" "my-key-bindings.el" "smooth-scrolling.el" "tempo-c-cpp.el" "my-functions.el")
 
- ("/home/toij/code/" (21049 44356) "symphonical/" "nodejslearning/" "./" "djangotestproject/" "devilry-django/" "emacs-color-themes/" "../" "devilry_file_upload/" "master-thesis/" "test.html" "tworide.github.io/" "awsfabrictasks/" "nrk-radio/" "calc2latex_024_eur_latex/" "trafodjango/" "verdione/" "devilry.github.com/")
+ ("/home/toij/.emacs.d/" (21076 2749 237323 378000) "README.md" "starter-kit-registers.el" "starter-kit-defuns.el" "starter-kit-eshell.el" "elpa-to-submit/" "session.10f19dc582622376c0137232936132224600000019140044" "dominating-file.el" "starter-kit-bindings.el" "starter-kit-ruby.el" "session.1087eeb6dc74a9e6c6137925870690635500000020080047" "auto-save-list/" "session.10bd16c9aa73af0ab6137535233718456000000019780047" "starter-kit-elpa.el" "session.10ab9f3af11b690260137664388948554200000018970048" "session.105f1bb3623b0cde40137950353114498200000020150048" "starter-kit-perl.el" "loaddefs.el" "init.el" "session.10fe9abaaf726807f9137217070059257700000017840043" "%backup%~" "TODO" "url/" "starter-kit-lisp.el" "session.103338466056dc16f4138070678937986300000020560048" "session.107ffd7c0be8fdac47133140521364270400000016010050" "COPYING" "starter-kit-js.el" "elpa/" "backups/" "themes/" ".git/" "tramp" "session.1094b815bc013391f13722336068438400000019320044" "toij/" "places" ".gitignore" "starter-kit-misc.el" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/assignment/" (20865 415) "AssignmentOverview.js" "GradeEditorSelectWidget.js" "EditPublishingTimePanel.js" "EditDeadlineHandlingWidget.js" "./" "EditAnonymousPanel.js" "../" "EditDeadlineHandlingPanel.js" "EditPublishingTimeWidget.js" "EditAnonymousWidget.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/app/controller/" (21076 1841 489293 151000) "./" "../" "DashboardController.coffee")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/managestudents/" (21053 40934) "TagsHelp.js" "GridOfGroupsBase.js" "AutocompleteRelatedUserWidget.js" "SingleGroupSelectedView.js" "SortByButton.js" "AutocompleteGroupWidget.js" "./" "DeadlinesContainer.js" "ExaminersHelp.js" "NoGroupSelectedView.js" "DeliveryPanel.js" "SelectedGroupsSummaryGrid.js" "../" "MultipleGroupsSelectedView.js" "ManageStudentsOnSingle.js" "ListOfGroups.js" "MergeGroups.js" "ManageExaminersOnSingle.js" "SelectedGroupsButton.js" "GroupHelp.js" "SelectedGroupsMenu.js" "StudentsInGroupGrid.js" "DeadlinePanel.js" "TagsInGroupGrid.js" "ManageStudentsOverview.js" "SelectExaminersGrid.js" "ChooseTagsPanel.js" "ExaminersInGroupGrid.js" "ManageExaminersOnMultiple.js" "HelpPanel.js" "SelectGroupsBySearchWidget.js" "DynamicLoadMenu.js" "SingleMetaInfo.js" "ManageTagsOnSingle.js" "MultiDangerousActions.js" "ManageTagsOnMultiple.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/devilry_examiner/app/" (21076 1841 489293 151000) "./" "controller/" "view/" "../")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/assignment/" (20865 415) "./" "EditDeadlineHandling.js" "../" "AssignmentController.js" "EditGradeEditor.js" "EditAnonymous.js" "EditPublishingTime.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/app/controller/" (21076 1841 489293 151000) "DashboardController.js" "./" "../")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/model/" (20865 415) "MergeIntoGroup.js" "CreateNewAssignment.js" "RelatedStudentRo.js" "ExaminerStat.js" "AllWhereIsAdmin.js" "./" "DeadlineBulk.js" "ActiveAssignment.js" "GradeEditorConfig.js" "RelatedExaminer.js" "AggregatedGroupInfo.js" "Period.js" "Examiner.js" "GradeEditor.js" "Tag.js" "../" "RelatedExaminerRo.js" "RelatedUserBase.js" "AllActiveWhereIsAdmin.js" "PopFromGroup.js" "Subject.js" "Group.js" "Candidate.js" "Assignment.js" "AggregatedRelatedStudentInfo.js" "GradeEditorRegistryItem.js" "DetailedPeriodOverview.js" "PassedPreviousPeriodItem.js" "RelatedStudent.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/app/" (21058 58759 816145 848000) "./" "controller/" "view/" "../")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/controller/" (21053 37100) "CreateNewPeriod.js" "CreateNewAssignment.js" "Dashboard.js" "BulkManageDeadlines.js" "AllWhereIsAdmin.js" "./" "DetailedPeriodOverviewController.js" "RelatedUsersBase.js" "GradeEditor.js" "managestudents/" "subject/" "ExaminerStatsController.js" "../" "RelatedStudents.js" "PassedPreviousPeriodController.js" "assignment/" "period/" "AddGroups.js" "RelatedExaminers.js" "guides/" "GuideSystem.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/devilry_examiner/" (21076 1841 489293 151000) "app.js" "./" "../" "app/")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/model/" (20993 4273) "GroupedResult.js" "./" "OpenGroupDeadlineExpired.js" "../" "OpenGroup.js" "FindGroup.js" "GroupInfo.js" "RecentFeedback.js" "RecentDelivery.js" "OpenGroupDeadlineNotExpired.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/static/" (21058 58759 816145 848000) "./" "../" "devilry_examiner/")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/browsegrouped/" (21006 9317) "./" "../" "BrowseGrouped.js")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/buildstatic/" (21076 1841 485293 151000) "./" "../" "devilry_examiner/")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/sass/" (20956 25480) "bootstrap.scss" "_mixins.scss" "_spotlight.scss" "./" "_combobox.scss" "_devilry_discussionview.scss" "_extjs.scss" "_devilry_linkstyles.scss" "devilry.scss" "_devilry_alert.scss" "_boundlist.scss" "../" "_help-panel-ui.scss" "_grid.scss" "_icons.scss" "_doesnotexist.scss" "_devilry_variables.scss" "config.rb" "_devilry_bootstrap_extras.scss" "bootstrap_full.scss" "_devilry_extras.scss" "pygments/" "bootstrap/" "_devilry_forms.scss" "_button-uis.scss" "_devilry_mixins.scss" "_devilry_maskstyles.scss")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/devilry_examiner/" (21076 1841 485293 151000) "urls.pyc" "static/" "./" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py" "views.py" "urls.py" "buildstatic/" "views.pyc")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/resources/" (20865 416) "README.md" "hugearrow/" "icons/" "./" "fonts/" "bgimages/" "sass/" "../" "images/" "stylesheets/" "favicons/")
+ ("/home/toij/code/devilry-django/src/devilry_examiner/" (21058 58922 236151 257000) "setup.py" "./" "devilry_examiner.egg-info/" "../" "devilry_examiner/" "README.rst")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/devilry_theme/" (20865 415) "Icons.js" "./" "resources/" "../")
+ ("/home/toij/code/devilry-django/src/" (21058 58768 924146 151000) "devilry_theme/" "devilry_rest/" "devilry_qualifiesforexam_select/" "devilry_mathjax/" "devilry_helplinks/" "devilry_qualifiesforexam/" "./" "devilry_nodeadmin/" "devilry_useradmin/" "devilry_extjsextras/" "devilry_settings/" "devilry/" "devilry_sandbox/" "devilry_exampleapp/" "devilry_usersearch/" "devilry_authenticateduserinfo/" "devilry_university_translations/" "../" "devilry_examiner/" "devilry_subjectadmin/" "devilry_qualifiesforexam_approved/" "devilry_qualifiesforexam_points/" "devilry_header/" "devilry_i18n/" "devilry_frontpage/" "devilry_student/" "devilry_developer/" "devilry_search/")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/static/" (20865 415) "devilry_theme/" "./" "../")
+ ("/etc/" (21075 64075 113183 186000) "rsyslog.d/" "pcmcia/" "openal/" "locale.alias" "gdm/" "usb_modeswitch.conf" "ssl/" "bash_completion.d/" "shadow" "brltty/" "updatedb.conf" "ppp/" "lighttpd/" "UPower/" "grub.d/" "modprobe.d/" "systemd/" "checkinstallrc" "bash_completion" "ca-certificates.conf" "ifplugd/" "pulse/" "gshadow" "apache2/" "ConsoleKit/" "gtk-2.0/" "mke2fs.conf" "securetty" "vpnc/" "shells" "request-key.conf" "mailcap.order" "netscsid.conf" "rc_keymaps/" "xml/" "kerneloops.conf" "cupshelpers/" "compizconfig/" "hosts.deny" "emacs23/" "network/" "fonts/" "ufw/" "bogofilter.cf" "sensors3.conf" ".pwd.lock" "cron.weekly/" "mailcap" "group-" "anthy/" "fstab" "hosts.allow" "debian_version" "rcS.d/" "colord.conf" "hdparm.conf" "cron.hourly/" "freemind/" "legal" "insserv.conf.d/" "brlapi.key" "debconf.conf" "lsb-base-logging.sh" "rpc" "cron.d/" "iproute2/" "init/" "initramfs-tools/" "rc_maps.cfg" "ucf.conf" "rc4.d/" "mysql/" "snmp/" "dkms/" "nsswitch.conf" "deluser.conf" "shadow-" "vlc/" "udev/" "rc1.d/" "dhcp3/" "pm/" "lightdm/" "libnl-3/" "bindresvport.blacklist" "vdpau_wrapper.cfg" "kernel/" "gai.conf" "python3.2/" "sane.d/" "modules" "gamin/" "rc.local" "OpenCL/" "gnome-settings-daemon/" "samba/" "sound/" "javascript-common/" "wgetrc" "ImageMagick/" "logcheck/" "perl/" "ssh/" "mime.types" "polkit-1/" "alternatives/" "login.defs" "manpath.config" "adduser.conf" "printcap" "mplayer/" "tex4ht/" "mono/" "zsh_command_not_found" "ld.so.conf" "popularity-contest.conf" "update-manager/" "vga/" "gconf/" "papersize" "apt/" "timezone" "fstab.d/" "depmod.d/" "libpaper.d/" "rc2.d/" "at.deny" "gshadow-" "dpkg/" "subversion/" "vtrgb" "logrotate.conf" "NetworkManager/" "pkcs11/" "protocols" "pam.conf" "chromium-browser/" "gimp/" "insserv.conf" "kbd/" "ld.so.cache" "lftp.conf" "default/" "rsyslog.conf" "sensors.d/" "dhcp/" "resolvconf/" "blkid.conf" "sysctl.d/" "ffserver.conf" "ghostscript/" "emacs/" "issue.net" "timidity/" "rc6.d/" "magic.mime" "defoma/" "localtime" "python2.7/" "apparmor/" "chatscripts/" "insserv/" "apm/" "anacrontab" "hosts" "dbus-1/" "blkid.tab" "gnome-system-tools/" "gtk-3.0/" "texmf/" "lintianrc" "resolv.conf" "passwd" "kernel-img.conf" "services" "apparmor.d/" "logrotate.d/" "magic" "kde3/" "computer-janitor.d/" "LatexMk" "profile" "gnome/" "group" "init.d/" "newt/" "console-setup/" "dictionaries-common/" "libccid_Info.plist" "dconf/" "acpi/" "environment" "ca-certificates.conf.dpkg-old" "doc-base/" "firefox/" "gnome-vfs-2.0/" "apport/" "avserver.conf" "security/" "host.conf" "rc5.d/" "sgml/" "os-release" "usb_modeswitch.d/" "ld.so.conf.d/" "rc3.d/" "pam.d/" "bonobo-activation/" "crypttab" "libreoffice/" "X11/" "lsb-base/" "sysctl.conf" "ts.conf" "cups/" "ginn/" "hp/" "rc0.d/" "wpa_supplicant/" "emacs24/" "xul-ext/" "icedtea-web/" ".java/" "crontab" "mtools.conf" "sudoers.d/" "xdg/" "bash.bashrc" "terminfo/" "fuse.conf" "inputrc" "reader.conf.d/" "update-notifier/" "pnm2ppa.conf" "speech-dispatcher/" "profile.d/" "issue" "hostname" "thunderbird/" "foomatic/" "vim/" "calendar/" "motd" "nanorc" "ltrace.conf" "wildmidi/" "wodim.conf" "at-spi2/" "passwd-" "obex-data-server/" "cron.daily/" "python/" "opt/" "ldap/" "sudoers" "avahi/" "brltty.conf" "groff/" "lsb-release" "mtab" "java-6-openjdk/" "rmt" "gdb/" "cron.monthly/" "mercurial/" "bluetooth/" "mtab.fuselock" "gnome-app-install/" "skel/" "ca-certificates/" "esound/" "gnome-vfs-mime-magic" "networks" "update-motd.d/" "checkbox.d/" "apg.conf" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/devilry_theme/" (20865 4413) "static/" "./" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py")
+ ("/etc/alternatives/" (21075 64098 321183 960000) "infobrowser.1.gz" "x86_64-linux-gnu_nvidia_modconf" "faked.sv.1.gz" "rmid" "unrar" "view" "testrb" "emacs-16x16.png" "write.1.gz" "bibtex" "cc.1.gz" "telnet.1.gz" "wish" "start-here.svg" "mozilla-flashplugin" "gnome-www-browser" "rename" "view.1.gz" "xinput-th_TH" "rmt.8.gz" "ri" "gem" "net.8.gz" "x86_64-linux-gnu_nvidia_xconfig" "libxnvctrl.a" "mp3-decoder.1.gz" "nawk.1.gz" "ssh-askpass" "view.it.1.gz" "locate" "x86_64-linux-gnu_nvidia_smi" "start-here-24.png" "cli" "cc" "ex.1.gz" "bogolexer" "ctags.1.gz" "rst2s5" "bf_copy" "emacsclient" "bogoutil" "c99" "nc" "x86_64-linux-gnu_libOpenCL.so_lib32" "nvctrl_include/" "rst-buildhtml" "orbd" "view.fr.1.gz" "rst2pseudoxml" "x86_64-linux-gnu_nvidia-smi.1.gz" "testparm.1.gz" "mozilla-javaplugin.so" "rcs-checkin.1.gz" "aclocal.1.gz" "fakeroot.es.1.gz" "gnome-text-editor" "itweb-settings.1.gz" "emacs-32x32.png" "liblapack.so" "write" "libblas.a" "ftp.1.gz" "w" "fakeroot.1.gz" "gconftool" "xinput-zh_TW" "editor" "default.plymouth" "xinput-zh_CN" "x86_64-linux-gnu_libOpenCL.so" "irb" "x86_64-linux-gnu_nvidia_desktop" "xinput-ja_JP" "mpg123.1.gz" "bf_compact" "vi.fr.1.gz" "aclocal" "unpack200" "awk.1.gz" "rst2xml" "emacs-48x48.png" "bibtex.1.gz" "x86_64-linux-gnu_libvdpau_nvidia.so_lib32" "b2m" "xdvi.bin" "c89" "testrb.1.gz" "start-here-16.png" "mt.1.gz" "infobrowser" "erb.1.gz" "c++.1.gz" "javaws.1.gz" "grep-changelog.1.gz" "xinput-zh_HK" "testparm" "rmiregistry.1.gz" "fakeroot.fr.1.gz" "libgksu-gconf-defaults" "bash_completion_gem" "x-window-manager" "rdoc" "itweb-settings" "fonts-japanese-gothic.ttf" "vtrgb" "mt" "editor.1.gz" "newt-palette" "default.plymouth.grub" "from.1.gz" "x-session-manager" "pico.1.gz" "x86_64-linux-gnu_nvidia-autostart.desktop" "i386-linux-gnu_gl_conf" "from" "bf_tar" "emacs.1.gz" "nmblookup" "ttf-japanese-gothic.ttf" "rst2odt_prepstyles" "bogotune" "vi.pl.1.gz" "ssh-askpass.1.gz" "view.ru.1.gz" "b2m.1.gz" "x86_64-linux-gnu_libvdpau_nvidia.so.1" "ex.fr.1.gz" "java.1.gz" "libblas.so" "irb.1.gz" "x-cursor-theme" "emacs-24x24.png" "emacs" "pager.1.gz" "x86_64-linux-gnu_grub_fb_blacklist" "emacs-document.svg" "rstpep2html" "automake" "pico" "x86_64-linux-gnu_man_nvidiaxconfig.gz" "rdoc.1.gz" "unrar.1.gz" "nvidia_settings" "etags" "locate.1.gz" "ex" "nvidia_settings_conf" "x86_64-linux-gnu_nvidia_bug_report" "pack200.1.gz" "gem.1.gz" "cli.1.gz" "ctags" "c++" "gstreamer-codec-install" "rlogin" "rst2xetex" "ruby" "x86_64-linux-gnu_nvidia.icd" "x86_64-linux-gnu_xorg_extra_modules/" "bogofilter" "tnameserv" "keytool" "pack200" "builtins.7.gz" "README" "x-www-browser" "x86_64-linux-gnu_libvdpau_nvidia.so.1_lib32" "vi" "x86_64-linux-gnu_xvmcconfig" "gconftool.1.gz" "x86_64-linux-gnu_nvidia_drv" "faked.1.gz" "rsh" "x-session-manager.1.gz" "rmiregistry" "xinput-zh_SG" "rcs-checkin" "x-terminal-emulator" "pager" "policytool" "faked.es.1.gz" "java" "libblas.so.3gf" "telnet" "emacs-128x128.png" "ghostscript-current/" "nawk" "servertool" "net" "netcat" "emacs.svg" "cpp" "js" "nmblookup.1.gz" "wish.1" "erb" "rcp.1.gz" "faked.fr.1.gz" "c99.1.gz" "grep-changelog" "ri.1.gz" "gnome-text-editor.1.gz" "start-here-22.png" "tnameserv.1.gz" "emacsclient.1.gz" "ruby.1.gz" "rst2latex" "liblapack.so.3gf" "liblapack.a" "tclsh.1" "rmid.1.gz" "fakeroot.sv.1.gz" "rst2odt" "ebrowse.1.gz" "jexec-binfmt" "vi.ru.1.gz" "javaws" "x86_64-linux-gnu_gl_conf" "x-terminal-emulator.1.gz" "vi.1.gz" "vi.it.1.gz" "bogoupgrade" "ex.it.1.gz" "orbd.1.gz" "fakeroot" "mp3-decoder" "ftp" "start-here-32.png" "ex.pl.1.gz" "js.1.gz" "x-window-manager.1.gz" "unpack200.1.gz" "traceroute6" "rsh.1.gz" "c89.1.gz" "policytool.1.gz" "xinput-ko_KR" "updatedb" "cli-gacutil.1.gz" "rview" "ex.ru.1.gz" "xinput-all_ALL" "automake.1.gz" "keytool.1.gz" "rst2html" "jexec" "rename.1.gz" "nc.1.gz" "netcat.1.gz" "tclsh" "w.1.gz" "rst2man" "ebrowse" "x86_64-linux-gnu_libvdpau_nvidia.so" "awk" "rcp" "rmt" "man_nvidiasettings.gz" "global-assembly-cache-tool" "xinput-lo_TH" "text.plymouth" "mpg123" "etags.1.gz" "servertool.1.gz" "traceroute6.8.gz" "rlogin.1.gz" "view.pl.1.gz" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_theme/" (20865 1074) "devilry_theme/" "setup.py" "./" "LICENSE" "devilry_theme.egg-info/" "../" "README.rst" "MANIFEST.in")
+ ("/usr/" (20119 31756 489654 495000) "./" "../" "bin/" "local/" "sbin/" "share/" "games/" "lib32/" "src/" "lib/" "include/")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/" (20993 9682) "urls.pyc" "static/" "fabfile.py" "./" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "fabfile.pyc" "models.py" "views.py" "urls.py" "views.pyc")
+ ("/usr/share/" (21075 64075 265183 193000) "tabset/" "intltool-debian/" "pnm2ppa/" "aspell/" "unity/" "myspell/" "gcr-3/" "locales/" "apps/" "gdm/" "gnomine/" "enchant/" "mozilla/" "brltty/" "xml-core/" "po-debconf/" "ppp/" "tex-common/" "texi2html/" "consoletrans/" "unity-greeter/" "xdiagnose/" "skype-wrapper/" "ccsm/" "pkgconfig/" "aptdaemon/" "pycentral-data/" "debconf/" "checkbox/" "adium/" "shutter/" "cmake-2.8/" "file/" "help/" "pitivi/" "opencc/" "git-core/" "mahjongg/" "xml/" "consolefonts/" "kde4/" "liblouis/" "nvidia-common/" "compizconfig/" "evolution-data-server-3.2/" "swig2.0/" "telepathy/" "emacs23/" "fonts/" "ufw/" "gnome-mag/" "indicators/" "gnome-power-manager/" "gnome-2.0/" "notify-osd/" "gettext/" "vino/" "launchpad-integration/" "vrms/" "espeak-data/" "python-apt/" "im-switch/" "language-tools/" "applications/" "orca/" "gconf-editor/" "glib-2.0/" "texinfo/" "gtk-doc/" "gnome-bluetooth/" "command-not-found/" "rdesktop/" "ecryptfs-utils/" "netpbm/" "texlive-bin/" "freemind/" "binfmts/" "pixmaps/" "gwibber/" "jockey/" "gedit/" "system-config-printer/" "initramfs-tools/" "omf/" "GConf/" "snmp/" "gnome-games/" "software-properties/" "ca-certificates-java/" "help-langpack/" "shotwell/" "gnome-background-properties/" "linux-sound-base/" "oneconf/" "vlc/" "gnome-doc-utils/" "sounds/" "gnome-sound-recorder/" "debianutils/" "synaptic/" "recovery-mode/" "ubuntuone-installer/" "zoneinfo/" "vte/" "lcdf-typetools/" "GeoIP/" "metacity/" "webkitgtk-1.0/" "locale-langpack/" "libgweather/" "libtimezonemap/" "gtksourceview-2.0/" "glade3/" "avconv/" "iptables/" "gnome-settings-daemon/" "python-support/" "samba/" "directfb-1.2.10/" "gstreamer-0.10/" "info/" "gtk-engines/" "autoconf/" "gnome-sudoku/" "latex-cjk-common/" "swath/" "xscreensaver/" "simple-scan/" "vinagre/" "perl/" "nodejs/" "gnome-keyring-3/" "language-selector/" "polkit-1/" "libwacom/" "man/" "mibs/" "aclocal/" "guile/" "ubuntuone-control-panel/" "nautilus-sendto/" "software-center/" "javazi/" "intltool/" "mplayer/" "numpy/" "tex4ht/" "evolution-exchange/" "thumbnailers/" "mono/" "gir-1.0/" "libgksu/" "update-manager/" "libexttextcat/" "deja-dup/" "mime/" "rhythmbox/" "cm-super/" "banshee/" "gst-plugins-base/" "gconf/" "unattended-upgrades/" "mime-info/" "gitweb/" "themes/" "m17n/" "apt/" "nvidia-304/" "texmf-texlive/" "dpkg/" "menu/" "desktop-directories/" "gtkhtml-3.14/" "libvisual-plugins-0.4/" "totem/" "doc/" "gnome-user-share/" "ibus-table/" "apt-xapian-index/" "boost-build/" "gimp/" "pcsc/" "pkg-config-crosswrapper" "gutenprint/" "file-roller/" "omf-langpack/" "readline/" "midi/" "eog/" "librarian/" "alsa/" "wwwconfig-common/" "gstreamer-properties/" "debhelper/" "ispell/" "ghostscript/" "alacarte/" "onboard/" "qt4/" "emacs/" "nux/" "app-install/" "nautilus/" "skype/" "defoma/" "gst-python/" "opencv/" "mythes/" "apparmor/" "gnome-panel/" "insserv/" "example-content/" "xgreeters/" "pygtk/" "evolution/" "foo2qpdl/" "perl5/" "spotify/" "latexdraw/" "grub-gfxpayload-lists/" "mobile-broadband-provider-info/" "dbus-1/" "libindicator/" "gnome-applets/" "i18n/" "gnome-system-tools/" "libthai/" "texmf/" "pulseaudio/" "nautilus-dropbox/" "nm-applet/" "unity-2d/" "libsensors4/" "OpenCV/" "nautilus-share/" "ImageMagick-6.6.9/" "brasero/" "media-player-info/" "libaudio2/" "rsyslog/" "pyshared-data/" "transmission/" "bug/" "computerjanitor/" "popularity-contest/" "dotnet/" "gnome/" "ubuntu-sso-client/" "ppd/" "backgrounds/" "console-setup/" "games/" "dictionaries-common/" "ibus-pinyin/" "zeitgeist/" "texmaker/" "ubufox/" "pam/" "libubuntuoneui/" "branding/" "doc-base/" "libgnome-media-profiles/" "screen-resolution-extra/" "cdbs/" "virtualbox/" "java/" "initscripts/" "apport/" "ibus/" "gnome-terminal/" "mimelnk/" "os-prober/" "grub/" "apturl/" "sgml-base/" "man-db/" "sgml/" "language-support/" "misc/" "gnome-session/" "ant/" "automake-1.11/" "base-passwd/" "sgml-data/" "libreoffice/" "common-licenses/" "X11/" "purple/" "cups/" "usb_modeswitch/" "ginn/" "libtextcat/" "nano/" "boostbook/" "emacs24/" "xul-ext/" "icedtea-web/" "gnome-screenshot/" "filezilla/" "idl/" "geany/" "package-data-downloads/" "geoclue-providers/" "tcltk/" "aclocal-1.11/" "libparse-debianchangelog-perl/" "foo2zjs/" "terminfo/" "gnome-games-common/" "npm/" "sysv-rc/" "computer-janitor/" "update-notifier/" "gnome-system-monitor/" "yelp-xsl/" "aisleriot/" "cli-common/" "base-files/" "speech-dispatcher/" "hyphen/" "gcalctool/" "asymptote/" "usb-creator/" "zenity/" "lintian/" "libgphoto2/" "libnm-gtk/" "system-tools-backends-2.0/" "foomatic/" "vim/" "xsessions/" "yelp/" "libquvi-scripts/" "mousetweaks/" "calendar/" "pyshared/" "build-essential/" "vala/" "lftp/" "maven-repo/" "farstream/" "gnome-system-log/" "baobab/" "evince/" "hplip/" "texlive-base/" "indicator-application/" "tomboy/" "empathy/" "gtkhtml-4.0/" "compiz/" "color/" "hal/" "locale/" "gnuplot/" "python/" "xine/" "keyutils/" "ssl-cert/" "sphinx/" "gnome-nettool/" "nvidia-173/" "avahi/" "indicator-datetime/" "libgnomekbd/" "groff/" "gnome-vpn-properties/" "GraphicsMagick-1.3.12/" "hwdata/" "inkscape/" "gksu/" "keyrings/" "gdb/" "webkitgtk-3.0/" "icons/" "gnupg/" "gtksourceview-3.0/" "adduser/" "gvfs/" "mercurial/" "javascript/" "acpi-support/" "djvu/" "seahorse/" "mono-2.0/" "quilt/" "hunspell/" "ca-certificates/" "pam-configs/" "alsa-base/" "gnome-control-center/" "dict/" "application-registry/" "docutils/" "../" "./")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/" (20993 4273) "app.js" "./" "resources/" "app-all.js" "../" "app/")
+ ("/usr/share/emacs/" (21075 64076 105183 219000) "./" "../" "site-lisp/" "23.3/" "24.3/")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/view/" (20956 25289) "./" "add_delivery/" "../" "browsegrouped/" "groupinfo/" "dashboard/")
+ ("/usr/share/emacs/24.3/" (21075 64078 829183 311000) "./" "../" "site-lisp/" "lisp/" "etc/" "leim/")
 
- ("/home/toij/code/devilry-django/src/devilry_developer/" (21049 36401) "setup.py" "./" "../" "README.rst" "devilry_developer.egg-info/" "devilry_developer/")
+ ("/usr/share/emacs/24.3/lisp/" (21075 64083 25183 450000) "org/" "hfy-cmap.el.gz" "windmove.el.gz" "paren.elc" "calculator.el.gz" "winner.el.gz" "doc-view.el.gz" "battery.el.gz" "follow.el.gz" "avoid.el.gz" "fringe.el.gz" "image-dired.el.gz" "simple.el.gz" "custom.el.gz" "help.elc" "arc-mode.el.gz" "allout.el.gz" "allout-widgets.el.gz" "locate.el.gz" "dframe.el.gz" "completion.el.gz" "sb-image.elc" "proced.el.gz" "mpc.el.gz" "dynamic-setting.elc" "ielm.el.gz" "sort.el.gz" "newcomment.elc" "composite.el.gz" "replace.elc" "hippie-exp.el.gz" "env.el.gz" "chistory.elc" "tabify.elc" "generic-x.elc" "iimage.elc" "image-mode.el.gz" "master.el.gz" "vcursor.elc" "elide-head.elc" "international/" "finder-inf.el" "thingatpt.el.gz" "info.el.gz" "password-cache.el.gz" "hfy-cmap.elc" "t-mouse.el.gz" "loadhist.el.gz" "lpr.elc" "subdirs.el" "pcmpl-cvs.elc" "w32-vars.elc" "ibuf-ext.elc" "tooltip.el.gz" "case-table.el.gz" "iswitchb.el.gz" "tooltip.elc" "ibuf-macs.elc" "rect.elc" "cmuscheme.elc" "misc.el.gz" "filecache.elc" "color.elc" "find-file.el.gz" "winner.elc" "hex-util.el.gz" "image-file.el.gz" "dos-w32.el.gz" "isearchb.el.gz" "mouse.el.gz" "mwheel.elc" "linum.elc" "help-mode.el.gz" "ansi-color.el.gz" "woman.elc" "mouse-drag.elc" "help-macro.el.gz" "xt-mouse.elc" "ls-lisp.elc" "cus-edit.el.gz" "terminal.elc" "ido.elc" "finder.elc" "hilit-chg.el.gz" "buff-menu.elc" "whitespace.elc" "find-lisp.elc" "dframe.elc" "image.elc" "ibuffer.el.gz" "version.elc" "help.el.gz" "replace.el.gz" "xml.el.gz" "saveplace.el.gz" "battery.elc" "ebuff-menu.el.gz" "autoarg.el.gz" "image-dired.elc" "scroll-all.el.gz" "edmacro.elc" "pcmpl-rpm.elc" "cus-start.el.gz" "profiler.el.gz" "font-core.el.gz" "allout-widgets.elc" "isearch.el.gz" "strokes.elc" "w32-common-fns.elc" "menu-bar.elc" "emulation/" "shell.el.gz" "cedet/" "filesets.el.gz" "tar-mode.elc" "novice.elc" "menu-bar.el.gz" "custom.elc" "linum.el.gz" "dired-aux.elc" "ps-print.elc" "files-x.elc" "erc/" "w32-fns.elc" "scroll-lock.elc" "epa-hook.el.gz" "info-xref.el.gz" "dired-x.el.gz" "mail/" "man.elc" "pcmpl-gnu.el.gz" "jit-lock.elc" "wdired.elc" "cmuscheme.el.gz" "bindings.elc" "abbrev.el.gz" "files-x.el.gz" "shadowfile.el.gz" "vt100-led.elc" "woman.el.gz" "subr.el.gz" "rot13.el.gz" "dabbrev.el.gz" "tmm.el.gz" "whitespace.el.gz" "jka-cmpr-hook.elc" "ido.el.gz" "vt100-led.el.gz" "userlock.el.gz" "calculator.elc" "comint.elc" "pcmpl-linux.el.gz" "dabbrev.elc" "shadowfile.elc" "desktop.el.gz" "uniquify.elc" "double.elc" "x-dnd.el.gz" "misearch.elc" "find-cmd.el.gz" "array.elc" "json.el.gz" "cus-face.elc" "bs.elc" "arc-mode.elc" "isearchb.elc" "jka-cmpr-hook.el.gz" "kmacro.el.gz" "align.elc" "disp-table.el.gz" "rfn-eshadow.el.gz" "autoarg.elc" "ffap.elc" "sort.elc" "master.elc" "ibuf-macs.el.gz" "talk.el.gz" "allout.elc" "icomplete.elc" "dos-vars.elc" "ehelp.elc" "pcmpl-rpm.el.gz" "font-core.elc" "indent.el.gz" "select.elc" "paren.el.gz" "ffap.el.gz" "locate.elc" "skeleton.elc" "tree-widget.elc" "cdl.elc" "isearch.elc" "pcmpl-gnu.elc" "saveplace.elc" "tmm.elc" "term.elc" "ehelp.el.gz" "ielm.elc" "rfn-eshadow.elc" "x-dnd.elc" "time.elc" "userlock.elc" "timezone.el.gz" "wdired.el.gz" "jka-compr.el.gz" "t-mouse.elc" "env.elc" "help-at-pt.el.gz" "format.el.gz" "shell.elc" "fringe.elc" "lpr.el.gz" "cus-face.el.gz" "epa.el.gz" "hexl.elc" "mh-e/" "epg-config.elc" "apropos.el.gz" "vt-control.el.gz" "outline.el.gz" "minibuffer.elc" "widget.elc" "informat.elc" "longlines.el.gz" "hi-lock.elc" "wid-edit.elc" "progmodes/" "descr-text.el.gz" "doc-view.elc" "ansi-color.elc" "files.el.gz" "printing.elc" "ps-samp.el.gz" "timezone.elc" "gnus/" "emacs-lock.elc" "kmacro.elc" "ps-mule.el.gz" "ps-bdf.elc" "epa-file.el.gz" "faces.elc" "startup.el.gz" "dynamic-setting.el.gz" "flow-ctrl.elc" "dired.el.gz" "terminal.el.gz" "ldefs-boot.el" "font-lock.elc" "ezimage.el.gz" "autoinsert.el.gz" "buff-menu.el.gz" "dired-aux.el.gz" "mouse-drag.el.gz" "calc/" "expand.elc" "hippie-exp.elc" "speedbar.el.gz" "epa-file.elc" "proced.elc" "soundex.el.gz" "type-break.el.gz" "minibuffer.el.gz" "savehist.el.gz" "bookmark.el.gz" "printing.el.gz" "autorevert.elc" "cus-theme.el.gz" "expand.el.gz" "subr.elc" "simple.elc" "epa-dired.el.gz" "descr-text.elc" "help-at-pt.elc" "reposition.elc" "kermit.elc" "image-file.elc" "iimage.el.gz" "ps-def.elc" "emacs-lock.el.gz" "view.el.gz" "wid-edit.el.gz" "forms.elc" "select.el.gz" "find-dired.elc" "delim-col.el.gz" "facemenu.elc" "dired-x.elc" "format.elc" "password-cache.elc" "informat.el.gz" "msb.el.gz" "window.elc" "time-stamp.elc" "reveal.el.gz" "minibuf-eldef.el.gz" "follow.elc" "generic-x.el.gz" "minibuf-eldef.elc" "ses.elc" "bookmark.elc" "autoinsert.elc" "tempo.elc" "json.elc" "find-lisp.el.gz" "xml.elc" "apropos.elc" "find-dired.el.gz" "pcmpl-unix.el.gz" "version.el.gz" "ses.el.gz" "echistory.el.gz" "man.el.gz" "newcomment.el.gz" "ebuff-menu.elc" "imenu.el.gz" "savehist.elc" "eshell/" "ruler-mode.elc" "view.elc" "info-look.el.gz" "loaddefs.el" "pcmpl-linux.elc" "finder.el.gz" "novice.el.gz" "mouse.elc" "recentf.elc" "macros.elc" "wid-browse.el.gz" "dos-fns.el.gz" "ezimage.elc" "rot13.elc" "dirtrack.elc" "kermit.el.gz" "ibuffer.elc" "jka-compr.elc" "time.el.gz" "ruler-mode.el.gz" "md4.elc" "README" "epa-mail.elc" "windmove.elc" "disp-table.elc" "help-fns.elc" "tempo.el.gz" "dos-fns.elc" "thingatpt.elc" "icomplete.el.gz" "iswitchb.elc" "tool-bar.elc" "macros.el.gz" "midnight.elc" "vt-control.elc" "repeat.el.gz" "pcomplete.el.gz" "profiler.elc" "edmacro.el.gz" "longlines.elc" "epa.elc" "imenu.elc" "image.el.gz" "mb-depth.el.gz" "double.el.gz" "dirtrack.el.gz" "epg.el.gz" "electric.el.gz" "htmlfontify.elc" "mouse-copy.el.gz" "files.elc" "format-spec.elc" "thumbs.el.gz" "abbrev.elc" "gs.el.gz" "net/" "autorevert.el.gz" "epg-config.el.gz" "play/" "startup.elc" "comint.el.gz" "makesum.el.gz" "misc.elc" "chistory.el.gz" "vc/" "recentf.el.gz" "scroll-bar.elc" "facemenu.el.gz" "vcursor.el.gz" "term.el.gz" "info-xref.elc" "completion.elc" "dos-w32.elc" "help-mode.elc" "register.elc" "epg.elc" "mwheel.el.gz" "dos-vars.el.gz" "format-spec.el.gz" "COPYING" "tutorial.el.gz" "echistory.elc" "dnd.elc" "scroll-lock.el.gz" "frame.elc" "wid-browse.elc" "filecache.el.gz" "bs.el.gz" "help-macro.elc" "xt-mouse.el.gz" "ps-print.el.gz" "faces.el.gz" "epa-mail.el.gz" "scroll-bar.el.gz" "indent.elc" "loadup.el" "tutorial.elc" "htmlfontify.el.gz" "mouse-copy.elc" "mpc.elc" "flow-ctrl.el.gz" "dnd.el.gz" "widget.el.gz" "window.el.gz" "w32-common-fns.el.gz" "dired.elc" "help-fns.el.gz" "cus-dep.el.gz" "reveal.elc" "sb-image.el.gz" "time-stamp.el.gz" "talk.elc" "case-table.elc" "w32-vars.el.gz" "color.el.gz" "nxml/" "pcmpl-unix.elc" "ps-def.el.gz" "filesets.elc" "language/" "hexl.el.gz" "ps-samp.elc" "ibuf-ext.el.gz" "info-look.elc" "tar-mode.el.gz" "electric.elc" "hilit-chg.elc" "register.el.gz" "textmodes/" "jit-lock.el.gz" "foldout.el.gz" "pcomplete.elc" "notifications.elc" "scroll-all.elc" "speedbar.elc" "foldout.elc" "cus-theme.elc" "calendar/" "notifications.el.gz" "find-file.elc" "find-cmd.elc" "tree-widget.el.gz" "cus-start.elc" "server.elc" "delsel.el.gz" "font-lock.el.gz" "hl-line.el.gz" "emacs-lisp/" "info.elc" "array.el.gz" "cus-edit.elc" "avoid.elc" "face-remap.el.gz" "cdl.el.gz" "midnight.el.gz" "hi-lock.el.gz" "align.el.gz" "url/" "mb-depth.elc" "hl-line.elc" "cus-dep.elc" "strokes.el.gz" "loadhist.elc" "epa-dired.elc" "button.el.gz" "frame.el.gz" "gs.elc" "epa-hook.elc" "cus-load.el" "pcmpl-cvs.el.gz" "type-break.elc" "desktop.elc" "forms.el.gz" "w32-fns.el.gz" "ps-mule.elc" "server.el.gz" "obsolete/" "msb.elc" "reposition.el.gz" "composite.elc" "skeleton.el.gz" "term/" "makesum.elc" "tabify.el.gz" "face-remap.elc" "delim-col.elc" "image-mode.elc" "ps-bdf.el.gz" "button.elc" "elide-head.el.gz" "hex-util.elc" "uniquify.el.gz" "misearch.el.gz" "rect.el.gz" "delsel.elc" "thumbs.elc" "md4.el.gz" "outline.elc" "bindings.el.gz" "ls-lisp.el.gz" "repeat.elc" "tool-bar.el.gz" "soundex.elc" "../" "./")
 
- ("/home/toij/code/devilry-django/src/" (20991 42321) "devilry_theme/" "devilry_rest/" "devilry_qualifiesforexam_select/" "devilry_mathjax/" "devilry_helplinks/" "devilry_qualifiesforexam/" "./" "devilry_nodeadmin/" "devilry_useradmin/" "devilry_extjsextras/" "devilry_settings/" "devilry/" "devilry_sandbox/" "devilry_exampleapp/" "devilry_usersearch/" "devilry_authenticateduserinfo/" "devilry_university_translations/" "../" "devilry_examiner/" "devilry_subjectadmin/" "django_devserver/" "devilry_qualifiesforexam_approved/" "devilry_qualifiesforexam_points/" "devilry_header/" "devilry_i18n/" "devilry_frontpage/" "devilry_student/" "devilry_developer/" "devilry_search/")
+ ("/usr/share/emacs/24.3/lisp/international/" (21075 64082 769183 441000) "./" "uni-old-name.el" "ucs-normalize.elc" "mule-conf.elc" "ja-dic-cnv.el.gz" "../" "ja-dic-cnv.elc" "latexenc.elc" "utf-7.elc" "iso-ascii.el.gz" "ccl.el.gz" "uni-mirrored.el" "latin1-disp.elc" "iso-cvt.elc" "iso-transl.elc" "charprop.el" "quail.el.gz" "ucs-normalize.el.gz" "iso-ascii.elc" "ccl.elc" "robin.el.gz" "iso-cvt.el.gz" "utf-7.el.gz" "latexenc.el.gz" "kinsoku.elc" "uni-digit.el" "characters.elc" "mule-conf.el.gz" "fontset.el.gz" "ogonek.el.gz" "mule.el.gz" "kinsoku.el.gz" "uni-category.el" "iso-transl.el.gz" "mule-diag.elc" "uni-uppercase.el" "uni-decomposition.el" "isearch-x.elc" "cp51932.el" "mule-util.el.gz" "mule-diag.el.gz" "uni-decimal.el" "uni-combining.el" "ja-dic-utl.el.gz" "uni-comment.el" "robin.elc" "mule-cmds.el.gz" "ogonek.elc" "titdic-cnv.el.gz" "characters.el.gz" "README" "uni-name.el" "kkc.el.gz" "quail.elc" "uni-titlecase.el" "latin1-disp.el.gz" "ja-dic-utl.elc" "eucjp-ms.el" "mule-util.elc" "uni-numeric.el" "fontset.elc" "mule.elc" "mule-cmds.elc" "kkc.elc" "titdic-cnv.elc" "isearch-x.el.gz" "uni-bidi.el" "uni-lowercase.el")
 
- ("/home/toij/.sentry/" (21048 23216) "./" "../" "sentry.db" "sentry.conf.py")
+ ("/home/toij/code/symphonical/symphonical2/harmony/settings/" (21067 61118) "base.pyc" "./" "defaults.pyc" "local.py.TEMPLATE" "../" "version.py" "version.pyc" "__init__.pyc" "__init__.py" "base.py.save" "base.py" "defaults.py")
 
- ("/home/toij/code/devilry-django/devenv/sentry/venv/" (21048 22010) "lib/" "./" "../" "include/" "bin/" "local/")
+ ("/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/" (21067 62400) "./" "mysqldebug.pyc" "../" "sqlitedebug.py" "sqlitedebug.pyc" "__init__.pyc" "debugbase.py" "__init__.py" "debugbase.pyc" "mysqldebug.py")
 
- ("/home/toij/code/devilry-django/devenv/sentry/" (21048 22009) "./" "venv/" "../")
+ ("/home/toij/code/symphonical/symphonical2/harmony/devenv/" (21066 65401) "parts/" "fabfile.py" "./" ".mr.developer.cfg" "buildout-omelette.cfg" "djangosettings/" "buildout.cfg" "venv/" "../" "harmonydb.sqlite3" ".installed.cfg" "fabfile.pyc" "develop-eggs/" "bin/" ".gitignore")
 
- ("/home/toij/code/devilry-django/devenv/" (21048 21991) "parts/" "README.md" "static/" "fabfile.py" "./" "all-but-exceptiontracebacks.devilry.log" "settings_test.py" ".mr.developer.cfg" ".pydevproject" "settings_dev.py" "buildout.cfg" "db.sqlite3" "request.devilry.log" "venv/" "debug-containing-sqlstatements.db.devilry.log" "db.devilry.log" "sentry/" "settings_test.pyc" "../" "email.devilry.log" "log/" ".project" "__init__.pyc" "deliverystorehier/" "devilry_whoosh_index/" ".installed.cfg" "__init__.py" "db_and_deliveries_stash/" "var/" "settings_dev.pyc" "fabfile.pyc" "xxx/" "develop-eggs/" "bin/" "settings_extjsbuild.py" "exception.devilry.log" "settings_extjsbuild.pyc" "settings_noextjsdebug.py")
+ ("/home/toij/code/symphonical/symphonical2/harmony/" (21068 2527) "urls.pyc" "settings.py.orig" ".tx/" "./" "versions.cfg" "custom_s3_staticfiles_storage.py" "docs/" "manage.py" "js_and_cssbuilder.py" "locale/" "database_router.py" "media/" "mrdevelopersources/" "docs-source/" "aws/" "deploy/" "../" "README.txt" "bootstrap.py" "__init__.pyc" "constants.py" "__init__.py" "templates/" "settings/" ".gondor/" "requirements/" "devenv/" "context_processors.pyc" "bin/" "urls.py" "wsgi.py" "ssl_cert/" "test_mail.py" "custom_s3_staticfiles_storage.pyc" "prodenv/" "buildout-base.cfg" "apps/" "south_fake_init.sh" "context_processors.py")
 
- ("/home/toij/code/trafodjango/" (21048 1024) "./" "versions.cfg" "src/" "runtests" "docs/" "manage.py" "vagrant/" "update.sh" "tests/" "devenv_vagrant/" "fixtures/" "deploy/" "../" "README.rst" "bootstrap.py" ".slash_ignore" "__init__.py" "contrib/" "templates/" "deployenv_test/" "development-base.cfg" "settings.py" "deploy-base.cfg" "settings_tests.py" "devenv/" ".git/" "buildoutcache/" "deployenv_prod/" "wsgi.py" ".gitignore" "buildout-base.cfg")
+ ("/home/toij/code/symphonical/symphonical2/vagrantdev/" (21068 2527) "README.md" "./" "../" ".vagrant/" "local/" "Vagrantfile" ".gitignore" "manifests/")
+
+ ("/home/toij/code/" (21061 53251) "symphonical/" "nodejslearning/" "./" "djangotestproject/" "devilry-django/" "emacs-color-themes/" "../" "devilry_file_upload/" "master-thesis/" "test.html" "tworide.github.io/" "rigid-shop/" "awsfabrictasks/" "nrk-radio/" "calc2latex_024_eur_latex/" "trafodjango/" "verdione/" "devilry.github.com/")
+
+ ("/home/toij/code/djangotestproject/" (21067 12672) "parts/" "README.md" "djangourls.py" "./" ".mr.developer.cfg" "src/" "LICENSE" "buildout.cfg" "djangosettings_local.py" "venv/" "whoosh_search_index_public/" "djangosettings.pyc" "../" "djangourls.pyc" "djangosettings_local.pyc" "bootstrap.py" "db.sqlite" "__init__.pyc" ".installed.cfg" "djangosettings.py" "__init__.py" "fabfile.pyc" "develop-eggs/" "bin/" ".git/" "whoosh_search_index_private/" "buildoutcache/" ".gitignore")
+
+ ("/home/toij/code/djangotestproject/src/my_example/my_example/" (21067 12769) "urls.pyc" "static/" "search_indexes.pyc" "./" "models.pyc" "../" "__init__.pyc" "__init__.py" "staticfiles_storage.pyc" "models.py" "staticfiles_storage.py" "views.pyc")
+
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/" (21065 58617) "urls.pyc" "static/" "./" "manage.py" "locale/" "simple.db" "local_settings.py" "settings.pyc" "../" "__init__.pyc" "__init__.py" "localsite/" "templates/" "settings.py" "urls.py" "satchmo.log" "local_settings.pyc" ".gitignore")
+
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/registration/" (21065 50634) "./" "registration_form.html" "../" "login.html")
+
+ ("/home/toij/code/symphonical/symphonical2/" (21006 5875) "./" "cube/" "vagrantdev/" "aws/" "../" "node-mailserver/" "feed/" "ec2-eu-keypair.pem" "buildout_cache/" "harmony/" "nodejs/" ".git/" ".gitignore" "README")
+
+ ("/home/toij/code/symphonical/" (20941 37897) "symphonical2/" "./" "../" "failed_emails/")
+
+ ("/home/toij/code/djangotestproject/src/my_example/" (21066 41347) "setup.py" "./" "my_example.egg-info/" "../" "my_example/")
+
+ ("/home/toij/code/djangotestproject/src/" (21010 12259) "./" "../" "my_example/")
+
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/" (21065 44961) "./" "index.html" "../" "README.txt" "contact_form.html" "cart.html" "base.html" "email/" "pdf/")
+
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/" (21065 44426) "./" "../" "README.txt" "product/" "shop/" "registration/")
+
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/docs/html/" (21064 18440) "./" "shippinglabel.html" "../" "invoice.html" "navbar.html" "header.html" "packingslip.html" "billing_and_shipping.html" "styles.css")
+
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/docs/" (21063 18246) "./" "../" "html/" "rml/")
+
+ ("/home/toij/code/rigid-shop/" (21065 39924) "parts/" "djangourls.py" "./" ".mr.developer.cfg" "src/" "initial-database.json" "buildout.cfg" "translations/" "venv/" "djangosettings.pyc" "../" "bootstrap.py" "__init__.pyc" ".installed.cfg" "djangosettings.py" "__init__.py" "develop-eggs/" "bin/" ".git/" "buildoutcache/" ".gitignore")
+
+ ("/home/toij/code/rigid-shop/src/" (21064 20649) "satchmo/" "./" "testapp/" "../")
+
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/product/" (21064 28730) "./" "product.html" "../")
 
  ("/home/toij/code/trafodjango/src/trafo_objectify/trafo_objectify/" (21048 5361) "urls.pyc" "objectify_media.py" "identicon.pyc" "awstranscode.py" "tasks.py" "fabfile.py" "objectify_project.pyc" "./" "identicon.py" "objectify_requestmoney.py" "objectify_project.py" "locale/" "registry.pyc" "rest/" "admin.py" "trafo_objectify_test/" "tests/" "models.pyc" "pdftoimages.pyc" "imageutils.pyc" "../" "audiotranscoder.pyc" "textutils.py" "registry.py" "admin.pyc" "objectify_news.py" "pdftoimages.py" "__init__.pyc" "audiotranscoder.py" "objectify_member.py" "objectify_comment.py" "__init__.py" "templates/" "tasks.pyc" "management/" "objectify_news.pyc" "objectify_media.pyc" "awstranscode.pyc" "models.py" "imageutils.py" "urls.py" "objectify_requestmoney.pyc" "objectify_member.pyc")
 
- ("/home/toij/code/trafodjango/src/trafo_objectify/" (21048 1063) "setup.py" "./" "../" "trafo_objectify.egg-info/" "trafo_objectify/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/" (21064 18439) "./" "admin/" "404.html" "../" "base.html" "shop/" "500.html")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/activity/" (21048 13666) "urls.pyc" "feed.pyc" "tasks.py" "./" "migrations/" "signals.pyc" "models.pyc" "fixtures/" "../" "notes.md" "signals.py" "__init__.pyc" "templatetags/" "__init__.py" "tasks.pyc" "management/" "models.py" "views.py" "urls.py" "feed.py" "views.pyc" "listeners.py" "context_processors.py")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/templates/shop/" (21064 18440) "_blackbird_logging.html" "download.html" "./" "_order_tracking_details.html" "order_tracking.html" "docs/" "index.html" "admin/" "404.html" "../" "google-analytics/" "contact_form.html" "cart.html" "contact_thanks.html" "_search.html" "base.html" "order_history.html" "_order_details.html" "email/" "_messages.html" "json.html" "multiple_product_form.html" "search.html" "_jquery_form.html" "_jquery.html")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/commentp/" (21048 5361) "urls.pyc" "forms.py" "./" "migrations/" "admin.py" "models.pyc" "../" "admin.pyc" "__init__.pyc" "templatetags/" "__init__.py" "models.py" "views.py" "urls.py" "listeners.py")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/no/LC_MESSAGES/" (21064 18801) "./" "django.mo" "../" "django.po")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/arena/" (21048 5362) "urls.pyc" "forms.py" "./" "migrations/" "admin.py" "models.pyc" "fixtures/" "../" "convert.py" "admin.pyc" "__init__.pyc" "__init__.py" "management/" "context_processors.pyc" "models.py" "views.py" "urls.py" "listeners.py" "context_processors.py")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/static/" (21064 27051) "./" "css/" "fonts/" "../" "images/" "js/" "cache/")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/proj/" (21048 5361) "urls.pyc" "forms.py" "./" "migrations/" "models.pyc" "../" "__init__.pyc" "__init__.py" "models.py" "views.py" "urls.py")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/no/LC_MESSAGES/" (21064 18801) "./" "django.mo" "../" "django.po")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/apps/" (21048 3465) "commentp/" "legacy/" "./" "stats/" "pages/" "news/" "requests/" "proj/" "arena/" "../" "adm/" "__init__.pyc" "common/" "__init__.py" "members/" "thumbs/" "activity/" "newsletter/" "listeners.py" "registration/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/no/" (21064 18439) "./" "LC_MESSAGES/" "../")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/trafo/" (21048 1269) "fabfile.py" "./" "locale/" "../" "__init__.pyc" "__init__.py" "apps/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/locale/" (21064 20696) "./" "../" "no/")
 
- ("/home/toij/code/trafodjango/src/trafo.apps/" (21048 1063) "setup.py" "./" "../" "trafo.apps.egg-info/" "trafo/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/no/" (21064 18439) "./" "LC_MESSAGES/" "../")
 
- ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/trafo_ui2/" (21048 7514) "package.json" "README.md" "./" "Cakefile" "custom_js/" "dustjs_templates/" "requireJsBuild.js" "components/" "../" "images/" "node_modules/" "component.json" "built-app.js" "app_js/" "app_coffee/" "testimages/" "favicons/" "bootstrap/" "styles/" ".gitignore")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/locale/" (21064 18439) "tr/" "nl/" "./" "ru/" "hu/" "cs/" "da/" "ro/" "../" "en/" "it/" "ko/" "de/" "no/" "es/" "sv/" "pt_BR/" "fr/" "he/" "pl/")
 
- ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/static/" (21048 1022) "./" "../" "trafo_ui2/")
+ ("/home/toij/code/rigid-shop/venv/" (21063 19943) "lib/" "./" "src/" "../" "include/" "bin/" "local/")
 
- ("/home/toij/code/trafodjango/src/trafo_ui2/trafo_ui2/" (21048 5361) "urls.pyc" "static/" "./" "tests/" "models.pyc" "utils.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py" "utils.py" "views.py" "urls.py" "views.pyc")
+ ("/home/toij/code/rigid-shop/src/satchmo/scripts/" (21063 18246) "./" "requirements.txt" "../" "clonesatchmo.py")
 
- ("/home/toij/code/trafodjango/src/trafo_ui2/" (21048 1063) "setup.py" "./" "../" "trafo_ui2.egg-info/" "trafo_ui2/")
+ ("/home/toij/code/rigid-shop/bin/" (21063 20281) "pythonwrapper" "pilfile.py" "rst2pseudoxml.py" "rst2xetex.py" "./" "rst2man.py" "rst2latex.py" "../" "pildriver.py" "sphinx-build" "buildout" "sphinx-autogen" "pilprint.py" "sphinx-quickstart" "rst2s5.py" "django_dev.py" "develop" "rst2html.py" "rst2odt_prepstyles.py" "rstpep2html.py" "pilconvert.py" "pilfont.py" "rst2odt.py" "sphinx-apidoc" "rst2xml.py")
 
- ("/home/toij/code/trafodjango/src/" (21048 1056) "./" "trafo_defaults/" "trafo.globalstatics/" "django-bitfield/" "../" "django-dist/" "django_devserver/" "trafo_develop/" "trafo_deploy/" "trafo.apps/" "trafo_objectify/" "trafo_ui2/" "django-tabs/" "trafo_admin/" "trafo_sysadmintools/" ".gitignore")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/urls/" (21063 18857) "base.pyc" "default.py" "./" "../" "__init__.pyc" "__init__.py" "base.py" "default.pyc")
 
- ("/home/toij/code/trafodjango/src/trafo_develop/" (21048 1064) "trafo_develop.egg-info/" "setup.py" "./" "../" "trafo_develop/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/product/admin/" (21063 18245) "./" "../" "product_export_form.html" "product_import_result.html" "variation_manager_list.html" "inventory_form.html" "variation_manager.html")
 
- ("/home/toij/code/trafodjango/src/trafo_develop/trafo_develop/" (21048 5360) "testaudios/" "testvideo.pyc" "testaudio.py" "fabrictasks.pyc" "./" "devsettings.pyc" "devsettings_prodlike.py" "devurls.pyc" "testaudio.pyc" "models.pyc" "log.pyc" "devsettings.py" "testimage.pyc" "fixtures/" "../" "testpdf.pyc" "__init__.pyc" "testpdfs/" "testvideo.py" "reset_testdb.sql" "__init__.py" "management/" "devsettings_test.py" "log.py" "testvideos/" "devsettings_mysql.py" "models.py" "testimage.py" "testimages/" "testpdf.py" "fabrictasks.py" "huge_testimages/" "rest_testclient.py" "devurls.py")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templatetags/" (21063 21731) "satchmo_discounts.pyc" "./" "satchmo_product.pyc" "../" "satchmo_product_admin.pyc" "satchmo_product.py" "__init__.pyc" "__init__.py" "satchmo_product_admin.py" "satchmo_discounts.py")
+
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/urls/" (21063 18856) "products.py" "base.pyc" "./" "../" "category.py" "__init__.pyc" "__init__.py" "category.pyc" "base.py" "products.pyc")
 
  ("/home/" (20083 52503) "./" "lost+found/" "toij/" "../" ".ecryptfs/")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/model/" (21045 55364) "ToplevelNode.js" "./" "../" "NodeDetail.js" "AggregatedStudentInfoModel.js")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/shop/" (21063 20920) "urls.pyc" "config.pyc" "exceptions.py" "forms.py" "./" "migrations/" "satchmo_settings.py" "signals.pyc" "locale/" "notification.pyc" "SSLMiddleware.pyc" "admin.py" "satchmo_settings.pyc" "models.pyc" "utils.pyc" "fixtures/" "../" "notification.py" "admin.pyc" "signals.py" "__init__.pyc" "templatetags/" "tests.py" "SSLMiddleware.py" "config.py" "__init__.py" "templates/" "forms.pyc" "management/" "views/" "context_processors.pyc" "models.py" "utils.py" "urls.py" "exceptions.pyc" "listeners.py" "listeners.pyc" "context_processors.py")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/store/" (21044 44462) "./" "../" "AggregatedStudentInfoStore.js" "ToplevelNodes.js")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/templates/localsite/" (21063 18246) "./" "../" "example.html")
 
- ("/home/toij/code/devilry-django/src/devilry_rest/devilry_rest/" (20993 7788) "./" "formfields.py" "serializehelpers.pyc" "models.pyc" "auth.py" "../" "__init__.pyc" "formfields.pyc" "__init__.py" "testclient.pyc" "testclient.py" "models.py" "auth.pyc" "serializehelpers.py")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/templates/" (21063 18246) "./" "../" "localsite/")
 
- ("/home/toij/code/devilry-django/src/devilry_rest/" (20993 4165) "devilry_rest/" "setup.py" "./" "../" "README.rst" "devilry_rest.egg-info/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/simple/" (21063 18246) "./" "manage.py" "simple.db" "local_settings.py" "../" "__init__.py" "localsite/" "templates/" "settings.py" "urls.py" "README")
 
- ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam_points/devilry_qualifiesforexam_points/locale/nb/LC_MESSAGES/" (20956 25289) "./" "django.mo" "../" "django.po")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/projects/" (21063 18246) "./" "simple/" "../" "skeleton/" "__init__.py")
 
- ("/home/toij/.emacs.d/themes/" (20956 15549) "./" "dorsey-theme.el" "../" "hickey-theme.el" "wilson-theme.el" "fogus-theme.el")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/product/" (21063 18245) "sale_details.html" "./" "product.html" "cart_detail_subscriptionproduct.html" "recently_added.html" "admin/" "minimum_order.html" "../" "cart_detail_customproduct.html" "detail_customproduct.html" "some_discount_eligible.html" "category.html" "best_sellers.html" "product_discount_eligible.html" "detail_subscriptionproduct.html" "best_ratings.html" "detail_configurableproduct.html" "category_index.html")
 
- ("/home/toij/code/devilry-django/src/devilry_qualifiesforexam/devilry_qualifiesforexam/locale/nb/LC_MESSAGES/" (20956 25734) "djangojs.po" "./" "djangojs.mo" "../" "django.po")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/templates/" (21063 18245) "./" "admin/" "../" "product/")
 
- ("/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/" (21044 38148) "fabrictasks.pyc" "buildoutrecipes.py" "./" "dev_urls.pyc" "../" "dummy_haystack_search_sites.py" "__init__.pyc" "__init__.py" "buildoutrecipes.pyc" "settings/" "dev_urls.py" "models.py" "dummy_haystack_search_sites.pyc" "fabrictasks.py")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/product/" (21063 20920) "modules/" "config.pyc" "jobs/" "forms.py" "queries.py" "./" "migrations/" "signals.pyc" "locale/" "admin.py" "models.pyc" "utils.pyc" "fixtures/" "../" "queries.pyc" "admin.pyc" "signals.py" "__init__.pyc" "templatetags/" "tests.py" "config.py" "__init__.py" "templates/" "forms.pyc" "management/" "fields.py" "views/" "prices.pyc" "prices.py" "models.py" "utils.py" "urls/" "listeners.py" "listeners.pyc")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/rest/" (21044 38713) "urls.pyc" "subject.py" "aggregated_groupinfo.py" "popfromgroup.pyc" "viewbase.pyc" "assignment.pyc" "relateduser_assignment_ro.pyc" "mergeintogroup.py" "viewbase.py" "passedinpreviousperiod.pyc" "relateduser.pyc" "log.pyc" "auth.py" "resources.pyc" "popfromgroup.py" "assignment.py" "allwhereisadmin.py" "period.pyc" "aggregated_groupinfo.pyc" "errors.py" "createnewassignment.pyc" "detailedperiodoverview.pyc" "relateduser_assignment_ro.py" "__init__.pyc" "fields.pyc" "mergeintogroup.pyc" "period.py" "__init__.py" "relateduser.py" "errors.pyc" "allwhereisadmin.pyc" "fields.py" "log.py" "deadlinesbulk.py" "subject.pyc" "examinerstats.py" "urls.py" "examinerstats.pyc" "auth.pyc" "passedinpreviousperiod.py" "deadlinesbulk.pyc" "mixins.py" "detailedperiodoverview.py" "createnewassignment.py" "resources.py" "mixins.pyc" "group.py" "group.pyc" "../" "./")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/satchmo_store/" (21063 18849) "./" "../" "accounts/" "contact/" "__init__.pyc" "__init__.py" "shop/" "mail.pyc" "urls/" "mail.py")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/view/" (20865 415) "createnewperiod/" "DangerousActions.js" "DeleteDjangoRestframeworkRecordDialog.js" "./" "detailedperiodoverview/" "EditSidebarContainer.js" "ManageAdminsPanel.js" "managestudents/" "subject/" "../" "guidesystem/" "passedpreviousperiod/" "gradeeditor/" "assignment/" "period/" "allwhereisadmin/" "dashboard/" "bulkmanagedeadlines/" "addgroups/" "guides/" "relatedstudents/" "AdminsBox.js" "createnewassignment/" "examinerstats/" "relatedexaminers/" "RenameBasenodeWindow.js")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/apps/" (21063 18248) "l10n/" "satchmo_store/" "./" "Satchmo.egg-info/" "satchmo_utils/" "tax/" "../" "payment/" "product/" "shipping/" "satchmo_ext/")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/devilry_subjectadmin/app/" (20865 415) "./" "controller/" "view/" "../" "store/" "utils/" "model/")
+ ("/home/toij/code/rigid-shop/src/satchmo/satchmo/" (21063 18246) "static/" "./" ".svnignore" "../" "__init__.py" "projects/" "apps/")
 
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/static/" (20865 415) "./" "../" "devilry_subjectadmin/")
+ ("/home/toij/code/rigid-shop/src/satchmo/" (21063 20581) ".hg/" "CONTRIBUTORS" "setup.py" ".tx/" "ez_setup.pyc" "setuptools_hg-0.4-py2.7.egg" "satchmo/" "./" "ez_setup.py" "docs/" "LICENSE" ".hgtags" "../" "CHANGELOG" "AUTHORS" ".hgignore" "setup.cfg" "__init__.py" "scripts/" "MANIFEST.in" ".gitignore")
 
- ("/home/toij/code/devilry-django/src/devilry/devilry/apps/core/" (21039 676) "static/" "tasks.py" "fabfile.py" "search_indexes.pyc" "./" "migrations/" "models/" "locale/" "tests/" "deliverystore.py" "../" "__init__.pyc" "__init__.py" "templates/" "tasks.pyc" "pluginloader.pyc" "search_indexes.py" "testhelpers.pyc" "testhelper.py" "testhelpers.py" "testhelper.pyc" "deliverystore.pyc" "pluginloader.py")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/pdf/" (21063 10883) "./" "../" "README.txt")
 
- ("/home/toij/code/symphonical/symphonical2/harmony/devenv/djangosettings/" (21040 32639) "./" "mysqldebug.pyc" "../" "sqlitedebug.py" "sqlitedebug.pyc" "__init__.pyc" "debugbase.py" "__init__.py" "debugbase.pyc" "mysqldebug.py")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/store/templates/shop/email/" (21063 10883) "./" "../" "README.txt")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/devilry_student/app/" (20865 415) "./" "controller/" "view/" "../" "store/" "model/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/" (21063 16424) "./" "../" "__init__.pyc" "store/" "__init__.py")
 
- ("/home/toij/code/devilry-django/src/devilry_student/devilry_student/static/" (20865 415) "./" "../" "devilry_student/")
+ ("/home/toij/code/rigid-shop/buildoutcache/" (21061 53992) "./" "../" "eggs/" "dlcache/")
 
- ("/home/toij/code/devilry-django/src/devilry_student/" (20865 1074) "setup.py" "./" "LICENSE" "../" "README.rst" "devilry_student.egg-info/" "MANIFEST.in" "devilry_student/")
+ ("/home/toij/code/rigid-shop/buildoutcache/eggs/" (21063 14731) "Pillow-2.1.0-py2.7-linux-x86_64.egg/" "Pygments-1.6-py2.7.egg/" "./" "pycrypto-2.6-py2.7-linux-x86_64.egg/" "South-0.8.2-py2.7.egg/" "Django-1.4-py2.7.egg/" "Sphinx-1.1.3-py2.7.egg/" "reportlab-2.7-py2.7-linux-x86_64.egg/" ".keep" "../" "django_registration-1.0-py2.7.egg/" "MarkupSafe-0.18-py2.7-linux-x86_64.egg/" "django_livesettings-1.4_12-py2.7.egg/" "PyYAML-3.10-py2.7-linux-x86_64.egg/" "zc.recipe.egg-2.0.1-py2.7.egg/" "django_app_plugins-0.1.1-py2.7.egg/" "zc.buildout-2.2.1-py2.7.egg/" "django_threaded_multihost-1.4_1-py2.7.egg/" "djangoprojectrecipe-1.1.2-py2.7.egg/" "mr.developer-1.26-py2.7.egg/" "distribute-0.7.3-py2.7.egg/" "django_signals_ahoy-0.1_3-py2.7.egg/" "django_keyedcache-1.4_6-py2.7.egg/" "TRML2PDF-1.0-py2.7.egg/" "Jinja2-2.7.1-py2.7.egg/" "docutils-0.11-py2.7.egg/" "sorl_thumbnail-11.12-py2.7.egg/")
 
- ("/home/toij/code/devilry-django/src/devilry_settings/devilry_settings/" (21039 846) "urls.pyc" "i18n.pyc" "default_urls.pyc" "i18n.py" "default_settings.py" "default_root_urlconf.py" "default_urls.py" "./" "testsuiterunner.pyc" "models.pyc" "log.pyc" "../" "__init__.pyc" "__init__.py" "testsuiterunner.py" "log.py" "models.py" "views.py" "urls.py" "views.pyc" "default_settings.pyc")
+ ("/home/toij/code/rigid-shop/buildoutcache/eggs/MarkupSafe-0.18-py2.7-linux-x86_64.egg/" (21063 11942) "./" "../" "EGG-INFO/" "markupsafe/")
 
- ("/home/toij/code/devilry-django/" (21039 676) "./" "versions.cfg" "src/" "add-git-remotes.py" "docs/" "vagrant/" "devilry-log" "LICENSE" "dbupdates/" "releasenotes/" "../" "awsdemo/" "production-base.cfg" "README.rst" "bootstrap.py" "development-base.cfg" "devenv/" ".travis.yml" ".git/" "buildoutcache/" "wsgi/" ".gitignore" "buildout-base.cfg" "example-productionenv/")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/templates/localsite/" (21062 1965) "./" "../" "example.html")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/" (20865 1074) "setup.py" "./" "devilry_nodeadmin/" "devilry_nodeadmin.egg-info/" "../" "README.rst")
+ ("/home/toij/code/rigid-shop/src/testapp/testapp/templates/" (21062 888) "./" "../" "localsite/")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/" (20956 26203) "urls.pyc" "static/" "fabfile.py" "./" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "models.py" "views.py" "urls.py" "views.pyc")
+ ("/home/toij/code/devilry-django/src/devilry_developer/devilry_developer/" (21058 60156) "fabrictasks.pyc" "buildoutrecipes.py" "./" "dev_urls.pyc" "../" "dummy_haystack_search_sites.py" "__init__.pyc" "__init__.py" "buildoutrecipes.pyc" "settings/" "dev_urls.py" "models.py" "dummy_haystack_search_sites.pyc" "fabrictasks.py")
 
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/" (20865 415) "./" "devilry_nodeadmin/" "../")
-
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/" (20956 25289) "./" "controller/" "view/" "../" "store/" "utils/" "model/")
-
- ("/home/toij/code/devilry-django/src/devilry_nodeadmin/devilry_nodeadmin/static/devilry_nodeadmin/app/view/nodebrowser/" (21039 8926) "./" "../" "NodeBrowserOverview.js" "NodeDetailsOverview.js" "NodeChildrenList.js" "Navigator.js")
-
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/" (21024 41754) "urls.pyc" "static/" "fabfile.py" "./" "exportdetailedperiodoverview.py" "locale/" "rest/" "tests/" "models.pyc" "../" "__init__.pyc" "__init__.py" "templates/" "fabfile.pyc" "models.py" "views.py" "urls.py" "exportdetailedperiodoverview.pyc" "views.pyc")
-
- ("/home/toij/code/devilry-django/src/devilry_subjectadmin/" (20865 1077) "setup.py" "./" "LICENSE" "../" "devilry_subjectadmin/" "README.rst" "MANIFEST.in" "devilry_subjectadmin.egg-info/")
-
- ("/home/toij/code/verdione/" (20541 26335) "CMake.modules/" "./" "examples/" "tests/" "../" "README.txt" "CMakeLists.txt" "build/" "mini_trigger_box/" "contrib/" "tools/" "notes.txt" "libnorthlight/" ".git/" "verdione/" "config.h.in" "libopenframeworks/" "private/" ".gitignore" "codingstyle.txt")
-
- ("/home/toij/code/verdione/tests/videoconverterProfiler/" (20541 26827) "vcProfiler.cpp" "vcLiveProfiler.cpp" "./" "../" "CMakeLists.txt" "data/")
-
- ("/home/toij/code/verdione/tests/" (20541 26869) "./" "videoconverterProfiler/" "x264profiler/" "../" "framegrabberTests/" "CMakeLists.txt" "utilTests/")
-
- ("/home/toij/code/nrk-radio/" (20560 64067) "./" "../" "nrk-programlist.wiki/" "nrk-programlist/")
-
- ("/home/toij/code/symphonical/symphonical2/harmony/prodenv/symphonical_awsfab/" (21010 22098) "setup_and_deploy.py" "./" "djangotasks.pyc" "supervisor.pyc" "awsrds.py" "awsrds.pyc" "utils.pyc" "../" "setupubuntu.py" "__init__.pyc" "launch_instance.pyc" "deploy.pyc" "__init__.py" "supervisor.py" "mysql.py" "launch_instance.py" "djangotasks.py" "setupubuntu.pyc" "utils.py" "deploy.py" "setup_and_deploy.pyc" "mysql.pyc")
-
- ("/home/toij/code/symphonical/symphonical2/harmony/" (21010 23452) "urls.pyc" "settings.py.orig" ".tx/" "./" "versions.cfg" "custom_s3_staticfiles_storage.py" "docs/" "manage.py" "js_and_cssbuilder.py" "locale/" "database_router.py" "media/" "mrdevelopersources/" "docs-source/" "aws/" "deploy/" "../" "README.txt" "bootstrap.py" "__init__.pyc" "constants.py" "__init__.py" "templates/" "settings/" ".gondor/" "requirements/" "devenv/" "context_processors.pyc" "bin/" "urls.py" "wsgi.py" "ssl_cert/" "test_mail.py" "custom_s3_staticfiles_storage.pyc" "prodenv/" "buildout-base.cfg" "apps/" "south_fake_init.sh" "context_processors.py")
-
- ("/home/toij/code/symphonical/symphonical2/harmony/prodenv/djangosettings/" (21010 22098) "awsrds_test.py" "./" "awsrds_production.py" "nodebug_base.py" "../" "__init__.pyc" "__init__.py" "mysql_nodebug.pyc" "mysql_nodebug.py" "nodebug_base.pyc" "dummy.py" "logexceptionsmiddleware.py")
-
- ("/home/toij/code/symphonical/symphonical2/harmony/devenv/" (21006 3146) "parts/" "fabfile.py" "./" ".mr.developer.cfg" "buildout-omelette.cfg" "djangosettings/" "buildout.cfg" "venv/" "../" ".installed.cfg" "fabfile.pyc" "develop-eggs/" "bin/" ".gitignore")
-
- ("/home/toij/code/djangotestproject/src/my_example/my_example/static/my_example/" (21010 13011) "./" "hello.txt" "../" "test.txt")
-
- ("/home/toij/code/djangotestproject/src/my_example/my_example/static/" (21010 13011) "./" "../" "my_example/")
-
- ("/home/toij/code/djangotestproject/src/my_example/my_example/" (21010 19130) "static/" "./" "models.pyc" "../" "__init__.pyc" "__init__.py" "staticfiles_storage.pyc" "models.py" "staticfiles_storage.py")
-
- ("/home/toij/code/djangotestproject/" (21010 18942) "parts/" "README.md" "djangourls.py" "./" ".mr.developer.cfg" "src/" "LICENSE" "buildout.cfg" "djangosettings_local.py" "venv/" "djangosettings.pyc" "../" "djangosettings_local.pyc" "bootstrap.py" "__init__.pyc" ".installed.cfg" "djangosettings.py" "__init__.py" "develop-eggs/" "bin/" ".git/" "buildoutcache/" ".gitignore")
-
- ("/home/toij/code/verdione/examples/openFrameworks/devSimpleLightExample/" (20541 24591) "testApp.cpp" "./" "main.cpp" "../" "CMakeLists.txt" "data/" "testApp.h")
+ ("/home/toij/code/devilry-django/src/devilry_subjectadmin/devilry_subjectadmin/rest/" (21058 60158) "urls.pyc" "subject.py" "aggregated_groupinfo.py" "popfromgroup.pyc" "viewbase.pyc" "assignment.pyc" "relateduser_assignment_ro.pyc" "mergeintogroup.py" "viewbase.py" "passedinpreviousperiod.pyc" "relateduser.pyc" "log.pyc" "auth.py" "resources.pyc" "popfromgroup.py" "assignment.py" "allwhereisadmin.py" "period.pyc" "aggregated_groupinfo.pyc" "errors.py" "createnewassignment.pyc" "detailedperiodoverview.pyc" "relateduser_assignment_ro.py" "__init__.pyc" "fields.pyc" "mergeintogroup.pyc" "period.py" "__init__.py" "relateduser.py" "errors.pyc" "allwhereisadmin.pyc" "fields.py" "log.py" "deadlinesbulk.py" "subject.pyc" "examinerstats.py" "urls.py" "examinerstats.pyc" "auth.pyc" "passedinpreviousperiod.py" "deadlinesbulk.pyc" "mixins.py" "detailedperiodoverview.py" "createnewassignment.py" "resources.py" "mixins.pyc" "group.py" "group.pyc" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

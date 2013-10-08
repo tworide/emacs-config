@@ -88,6 +88,11 @@
    'th-evince-sync))
 
 
+;; Get rid of TOO BIG message in ido-mode
+(setq ido-max-directory-size 100000)
 
-(require 'gtags)
-(autoload 'gtags-mode "gtags" "" t)
+;; Activate flycheck in all buffers it can operate
+(add-hook 'after-init-hook #'global-flycheck-mode)
+
+;; (require 'gtags)
+;; (autoload 'gtags-mode "gtags" "" t)
